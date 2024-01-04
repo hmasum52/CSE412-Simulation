@@ -1,0 +1,5102 @@
+1. Next event: Arrival of Customer 1
+
+---------No. of customers delayed: 1--------
+
+2. Next event: Arrival of Customer 2
+
+---------No. of customers delayed: 2--------
+
+3. Next event: Arrival of Customer 3
+
+---------No. of customers delayed: 3--------
+
+4. Next event: Arrival of Customer 4
+
+---------No. of customers delayed: 4--------
+
+5. Next event: Arrival of Customer 5
+
+---------No. of customers delayed: 5--------
+
+6. Next event: Arrival of Customer 6
+
+---------No. of customers delayed: 6--------
+
+7. Next event: Arrival of Customer 7
+
+---------No. of customers delayed: 7--------
+
+8. Next event: Arrival of Customer 8
+
+---------No. of customers delayed: 8--------
+
+9. Next event: Arrival of Customer 9
+
+---------No. of customers delayed: 9--------
+
+10. Next event: Departure from Server 4
+11. Next event: Departure from Server 8
+12. Next event: Departure from Server 2
+13. Next event: Arrival of Customer 10
+
+---------No. of customers delayed: 10--------
+
+14. Next event: Departure from Server 1
+15. Next event: Arrival of Customer 11
+
+---------No. of customers delayed: 11--------
+
+16. Next event: Departure from Server 9
+17. Next event: Departure from Server 7
+18. Next event: Arrival of Customer 12
+
+---------No. of customers delayed: 12--------
+
+19. Next event: Departure from Server 5
+20. Next event: Arrival of Customer 13
+
+---------No. of customers delayed: 13--------
+
+21. Next event: Departure from Server 3
+22. Next event: Departure from Server 6
+23. Next event: Arrival of Customer 14
+
+---------No. of customers delayed: 14--------
+
+24. Next event: Arrival of Customer 15
+
+---------No. of customers delayed: 15--------
+
+25. Next event: Arrival of Customer 16
+
+---------No. of customers delayed: 16--------
+
+26. Next event: Arrival of Customer 17
+
+---------No. of customers delayed: 17--------
+
+27. Next event: Arrival of Customer 18
+
+---------No. of customers delayed: 18--------
+
+28. Next event: Departure from Server 5
+29. Next event: Arrival of Customer 19
+
+---------No. of customers delayed: 19--------
+
+30. Next event: Arrival of Customer 20
+
+---------No. of customers delayed: 20--------
+
+31. Next event: Departure from Server 10
+32. Next event: Arrival of Customer 21
+
+---------No. of customers delayed: 21--------
+
+33. Next event: Arrival of Customer 22
+34. Next event: Arrival of Customer 23
+35. Next event: Departure from Server 10
+
+---------No. of customers delayed: 22--------
+
+36. Next event: Arrival of Customer 24
+37. Next event: Arrival of Customer 25
+38. Next event: Departure from Server 10
+
+---------No. of customers delayed: 23--------
+
+39. Next event: Arrival of Customer 26
+40. Next event: Departure from Server 7
+
+---------No. of customers delayed: 24--------
+
+41. Next event: Departure from Server 7
+
+---------No. of customers delayed: 25--------
+
+42. Next event: Departure from Server 7
+
+---------No. of customers delayed: 26--------
+
+43. Next event: Arrival of Customer 27
+44. Next event: Arrival of Customer 28
+45. Next event: Departure from Server 8
+
+---------No. of customers delayed: 27--------
+
+46. Next event: Arrival of Customer 29
+47. Next event: Arrival of Customer 30
+48. Next event: Departure from Server 7
+
+---------No. of customers delayed: 28--------
+
+49. Next event: Arrival of Customer 31
+50. Next event: Departure from Server 10
+
+---------No. of customers delayed: 29--------
+
+51. Next event: Arrival of Customer 32
+52. Next event: Arrival of Customer 33
+53. Next event: Arrival of Customer 34
+54. Next event: Arrival of Customer 35
+55. Next event: Departure from Server 7
+
+---------No. of customers delayed: 30--------
+
+56. Next event: Arrival of Customer 36
+57. Next event: Departure from Server 6
+
+---------No. of customers delayed: 31--------
+
+58. Next event: Arrival of Customer 37
+59. Next event: Departure from Server 7
+
+---------No. of customers delayed: 32--------
+
+60. Next event: Arrival of Customer 38
+61. Next event: Arrival of Customer 39
+62. Next event: Arrival of Customer 40
+63. Next event: Arrival of Customer 41
+64. Next event: Departure from Server 8
+
+---------No. of customers delayed: 33--------
+
+65. Next event: Arrival of Customer 42
+66. Next event: Departure from Server 10
+
+---------No. of customers delayed: 34--------
+
+67. Next event: Arrival of Customer 43
+68. Next event: Departure from Server 8
+
+---------No. of customers delayed: 35--------
+
+69. Next event: Arrival of Customer 44
+70. Next event: Arrival of Customer 45
+71. Next event: Departure from Server 9
+
+---------No. of customers delayed: 36--------
+
+72. Next event: Arrival of Customer 46
+73. Next event: Departure from Server 7
+
+---------No. of customers delayed: 37--------
+
+74. Next event: Arrival of Customer 47
+75. Next event: Arrival of Customer 48
+76. Next event: Departure from Server 7
+
+---------No. of customers delayed: 38--------
+
+77. Next event: Departure from Server 9
+
+---------No. of customers delayed: 39--------
+
+78. Next event: Departure from Server 10
+
+---------No. of customers delayed: 40--------
+
+79. Next event: Departure from Server 7
+
+---------No. of customers delayed: 41--------
+
+80. Next event: Departure from Server 10
+
+---------No. of customers delayed: 42--------
+
+81. Next event: Arrival of Customer 49
+82. Next event: Arrival of Customer 50
+83. Next event: Arrival of Customer 51
+84. Next event: Arrival of Customer 52
+85. Next event: Arrival of Customer 53
+86. Next event: Arrival of Customer 54
+87. Next event: Arrival of Customer 55
+88. Next event: Arrival of Customer 56
+89. Next event: Arrival of Customer 57
+90. Next event: Arrival of Customer 58
+91. Next event: Arrival of Customer 59
+92. Next event: Departure from Server 8
+
+---------No. of customers delayed: 43--------
+
+93. Next event: Departure from Server 6
+
+---------No. of customers delayed: 44--------
+
+94. Next event: Arrival of Customer 60
+95. Next event: Departure from Server 10
+
+---------No. of customers delayed: 45--------
+
+96. Next event: Departure from Server 9
+
+---------No. of customers delayed: 46--------
+
+97. Next event: Departure from Server 9
+
+---------No. of customers delayed: 47--------
+
+98. Next event: Arrival of Customer 61
+99. Next event: Departure from Server 9
+
+---------No. of customers delayed: 48--------
+
+100. Next event: Departure from Server 7
+
+---------No. of customers delayed: 49--------
+
+101. Next event: Arrival of Customer 62
+102. Next event: Departure from Server 7
+
+---------No. of customers delayed: 50--------
+
+103. Next event: Arrival of Customer 63
+104. Next event: Arrival of Customer 64
+105. Next event: Arrival of Customer 65
+106. Next event: Arrival of Customer 66
+107. Next event: Departure from Server 7
+
+---------No. of customers delayed: 51--------
+
+108. Next event: Arrival of Customer 67
+109. Next event: Departure from Server 8
+
+---------No. of customers delayed: 52--------
+
+110. Next event: Arrival of Customer 68
+111. Next event: Arrival of Customer 69
+112. Next event: Departure from Server 9
+
+---------No. of customers delayed: 53--------
+
+113. Next event: Arrival of Customer 70
+114. Next event: Arrival of Customer 71
+115. Next event: Departure from Server 6
+
+---------No. of customers delayed: 54--------
+
+116. Next event: Arrival of Customer 72
+117. Next event: Departure from Server 6
+
+---------No. of customers delayed: 55--------
+
+118. Next event: Departure from Server 9
+
+---------No. of customers delayed: 56--------
+
+119. Next event: Arrival of Customer 73
+120. Next event: Arrival of Customer 74
+121. Next event: Arrival of Customer 75
+122. Next event: Departure from Server 7
+
+---------No. of customers delayed: 57--------
+
+123. Next event: Departure from Server 6
+
+---------No. of customers delayed: 58--------
+
+124. Next event: Departure from Server 10
+
+---------No. of customers delayed: 59--------
+
+125. Next event: Departure from Server 8
+
+---------No. of customers delayed: 60--------
+
+126. Next event: Arrival of Customer 76
+127. Next event: Arrival of Customer 77
+128. Next event: Departure from Server 9
+
+---------No. of customers delayed: 61--------
+
+129. Next event: Departure from Server 9
+
+---------No. of customers delayed: 62--------
+
+130. Next event: Departure from Server 7
+
+---------No. of customers delayed: 63--------
+
+131. Next event: Arrival of Customer 78
+132. Next event: Arrival of Customer 79
+133. Next event: Arrival of Customer 80
+134. Next event: Departure from Server 7
+
+---------No. of customers delayed: 64--------
+
+135. Next event: Arrival of Customer 81
+136. Next event: Arrival of Customer 82
+137. Next event: Departure from Server 8
+
+---------No. of customers delayed: 65--------
+
+138. Next event: Departure from Server 10
+
+---------No. of customers delayed: 66--------
+
+139. Next event: Departure from Server 9
+
+---------No. of customers delayed: 67--------
+
+140. Next event: Departure from Server 10
+
+---------No. of customers delayed: 68--------
+
+141. Next event: Arrival of Customer 83
+142. Next event: Departure from Server 6
+
+---------No. of customers delayed: 69--------
+
+143. Next event: Arrival of Customer 84
+144. Next event: Departure from Server 9
+
+---------No. of customers delayed: 70--------
+
+145. Next event: Departure from Server 8
+
+---------No. of customers delayed: 71--------
+
+146. Next event: Arrival of Customer 85
+147. Next event: Departure from Server 6
+
+---------No. of customers delayed: 72--------
+
+148. Next event: Arrival of Customer 86
+149. Next event: Departure from Server 9
+
+---------No. of customers delayed: 73--------
+
+150. Next event: Arrival of Customer 87
+151. Next event: Arrival of Customer 88
+152. Next event: Departure from Server 6
+
+---------No. of customers delayed: 74--------
+
+153. Next event: Departure from Server 8
+
+---------No. of customers delayed: 75--------
+
+154. Next event: Arrival of Customer 89
+155. Next event: Arrival of Customer 90
+156. Next event: Arrival of Customer 91
+157. Next event: Departure from Server 10
+
+---------No. of customers delayed: 76--------
+
+158. Next event: Arrival of Customer 92
+159. Next event: Arrival of Customer 93
+160. Next event: Departure from Server 6
+
+---------No. of customers delayed: 77--------
+
+161. Next event: Arrival of Customer 94
+162. Next event: Arrival of Customer 95
+163. Next event: Arrival of Customer 96
+164. Next event: Arrival of Customer 97
+165. Next event: Departure from Server 10
+
+---------No. of customers delayed: 78--------
+
+166. Next event: Arrival of Customer 98
+167. Next event: Arrival of Customer 99
+168. Next event: Departure from Server 7
+
+---------No. of customers delayed: 79--------
+
+169. Next event: Arrival of Customer 100
+170. Next event: Arrival of Customer 101
+171. Next event: Departure from Server 10
+
+---------No. of customers delayed: 80--------
+
+172. Next event: Arrival of Customer 102
+173. Next event: Arrival of Customer 103
+174. Next event: Arrival of Customer 104
+175. Next event: Departure from Server 10
+
+---------No. of customers delayed: 81--------
+
+176. Next event: Departure from Server 9
+
+---------No. of customers delayed: 82--------
+
+177. Next event: Departure from Server 10
+
+---------No. of customers delayed: 83--------
+
+178. Next event: Arrival of Customer 105
+179. Next event: Departure from Server 9
+
+---------No. of customers delayed: 84--------
+
+180. Next event: Departure from Server 8
+
+---------No. of customers delayed: 85--------
+
+181. Next event: Arrival of Customer 106
+182. Next event: Departure from Server 8
+
+---------No. of customers delayed: 86--------
+
+183. Next event: Departure from Server 10
+
+---------No. of customers delayed: 87--------
+
+184. Next event: Departure from Server 10
+
+---------No. of customers delayed: 88--------
+
+185. Next event: Arrival of Customer 107
+186. Next event: Departure from Server 6
+
+---------No. of customers delayed: 89--------
+
+187. Next event: Arrival of Customer 108
+188. Next event: Arrival of Customer 109
+189. Next event: Departure from Server 7
+
+---------No. of customers delayed: 90--------
+
+190. Next event: Departure from Server 10
+
+---------No. of customers delayed: 91--------
+
+191. Next event: Arrival of Customer 110
+192. Next event: Departure from Server 6
+
+---------No. of customers delayed: 92--------
+
+193. Next event: Arrival of Customer 111
+194. Next event: Arrival of Customer 112
+195. Next event: Departure from Server 6
+
+---------No. of customers delayed: 93--------
+
+196. Next event: Arrival of Customer 113
+197. Next event: Departure from Server 6
+
+---------No. of customers delayed: 94--------
+
+198. Next event: Arrival of Customer 114
+199. Next event: Arrival of Customer 115
+200. Next event: Arrival of Customer 116
+201. Next event: Departure from Server 10
+
+---------No. of customers delayed: 95--------
+
+202. Next event: Arrival of Customer 117
+203. Next event: Departure from Server 7
+
+---------No. of customers delayed: 96--------
+
+204. Next event: Arrival of Customer 118
+205. Next event: Departure from Server 9
+
+---------No. of customers delayed: 97--------
+
+206. Next event: Departure from Server 7
+
+---------No. of customers delayed: 98--------
+
+207. Next event: Departure from Server 6
+
+---------No. of customers delayed: 99--------
+
+208. Next event: Arrival of Customer 119
+209. Next event: Arrival of Customer 120
+210. Next event: Arrival of Customer 121
+211. Next event: Arrival of Customer 122
+212. Next event: Arrival of Customer 123
+213. Next event: Arrival of Customer 124
+214. Next event: Arrival of Customer 125
+215. Next event: Departure from Server 10
+
+---------No. of customers delayed: 100--------
+
+216. Next event: Arrival of Customer 126
+217. Next event: Arrival of Customer 127
+218. Next event: Arrival of Customer 128
+219. Next event: Departure from Server 10
+
+---------No. of customers delayed: 101--------
+
+220. Next event: Departure from Server 10
+
+---------No. of customers delayed: 102--------
+
+221. Next event: Departure from Server 10
+
+---------No. of customers delayed: 103--------
+
+222. Next event: Departure from Server 8
+
+---------No. of customers delayed: 104--------
+
+223. Next event: Arrival of Customer 129
+224. Next event: Departure from Server 7
+
+---------No. of customers delayed: 105--------
+
+225. Next event: Departure from Server 10
+
+---------No. of customers delayed: 106--------
+
+226. Next event: Arrival of Customer 130
+227. Next event: Departure from Server 6
+
+---------No. of customers delayed: 107--------
+
+228. Next event: Departure from Server 8
+
+---------No. of customers delayed: 108--------
+
+229. Next event: Arrival of Customer 131
+230. Next event: Departure from Server 8
+
+---------No. of customers delayed: 109--------
+
+231. Next event: Arrival of Customer 132
+232. Next event: Arrival of Customer 133
+233. Next event: Arrival of Customer 134
+234. Next event: Departure from Server 8
+
+---------No. of customers delayed: 110--------
+
+235. Next event: Departure from Server 10
+
+---------No. of customers delayed: 111--------
+
+236. Next event: Departure from Server 7
+
+---------No. of customers delayed: 112--------
+
+237. Next event: Departure from Server 8
+
+---------No. of customers delayed: 113--------
+
+238. Next event: Departure from Server 9
+
+---------No. of customers delayed: 114--------
+
+239. Next event: Arrival of Customer 135
+240. Next event: Arrival of Customer 136
+241. Next event: Arrival of Customer 137
+242. Next event: Arrival of Customer 138
+243. Next event: Arrival of Customer 139
+244. Next event: Departure from Server 7
+
+---------No. of customers delayed: 115--------
+
+245. Next event: Departure from Server 9
+
+---------No. of customers delayed: 116--------
+
+246. Next event: Arrival of Customer 140
+247. Next event: Departure from Server 8
+
+---------No. of customers delayed: 117--------
+
+248. Next event: Arrival of Customer 141
+249. Next event: Arrival of Customer 142
+250. Next event: Departure from Server 8
+
+---------No. of customers delayed: 118--------
+
+251. Next event: Arrival of Customer 143
+252. Next event: Arrival of Customer 144
+253. Next event: Arrival of Customer 145
+254. Next event: Departure from Server 9
+
+---------No. of customers delayed: 119--------
+
+255. Next event: Arrival of Customer 146
+256. Next event: Departure from Server 7
+
+---------No. of customers delayed: 120--------
+
+257. Next event: Arrival of Customer 147
+258. Next event: Arrival of Customer 148
+259. Next event: Departure from Server 8
+
+---------No. of customers delayed: 121--------
+
+260. Next event: Departure from Server 10
+
+---------No. of customers delayed: 122--------
+
+261. Next event: Departure from Server 6
+
+---------No. of customers delayed: 123--------
+
+262. Next event: Arrival of Customer 149
+263. Next event: Arrival of Customer 150
+264. Next event: Departure from Server 7
+
+---------No. of customers delayed: 124--------
+
+265. Next event: Arrival of Customer 151
+266. Next event: Arrival of Customer 152
+267. Next event: Departure from Server 9
+
+---------No. of customers delayed: 125--------
+
+268. Next event: Departure from Server 9
+
+---------No. of customers delayed: 126--------
+
+269. Next event: Arrival of Customer 153
+270. Next event: Departure from Server 9
+
+---------No. of customers delayed: 127--------
+
+271. Next event: Departure from Server 10
+
+---------No. of customers delayed: 128--------
+
+272. Next event: Arrival of Customer 154
+273. Next event: Departure from Server 8
+
+---------No. of customers delayed: 129--------
+
+274. Next event: Departure from Server 9
+
+---------No. of customers delayed: 130--------
+
+275. Next event: Arrival of Customer 155
+276. Next event: Departure from Server 8
+
+---------No. of customers delayed: 131--------
+
+277. Next event: Departure from Server 10
+
+---------No. of customers delayed: 132--------
+
+278. Next event: Arrival of Customer 156
+279. Next event: Departure from Server 10
+
+---------No. of customers delayed: 133--------
+
+280. Next event: Departure from Server 6
+
+---------No. of customers delayed: 134--------
+
+281. Next event: Arrival of Customer 157
+282. Next event: Arrival of Customer 158
+283. Next event: Arrival of Customer 159
+284. Next event: Arrival of Customer 160
+285. Next event: Arrival of Customer 161
+286. Next event: Arrival of Customer 162
+287. Next event: Arrival of Customer 163
+288. Next event: Arrival of Customer 164
+289. Next event: Departure from Server 10
+
+---------No. of customers delayed: 135--------
+
+290. Next event: Arrival of Customer 165
+291. Next event: Arrival of Customer 166
+292. Next event: Arrival of Customer 167
+293. Next event: Departure from Server 6
+
+---------No. of customers delayed: 136--------
+
+294. Next event: Departure from Server 9
+
+---------No. of customers delayed: 137--------
+
+295. Next event: Departure from Server 9
+
+---------No. of customers delayed: 138--------
+
+296. Next event: Arrival of Customer 168
+297. Next event: Departure from Server 9
+
+---------No. of customers delayed: 139--------
+
+298. Next event: Departure from Server 9
+
+---------No. of customers delayed: 140--------
+
+299. Next event: Departure from Server 6
+
+---------No. of customers delayed: 141--------
+
+300. Next event: Arrival of Customer 169
+301. Next event: Arrival of Customer 170
+302. Next event: Departure from Server 7
+
+---------No. of customers delayed: 142--------
+
+303. Next event: Arrival of Customer 171
+304. Next event: Arrival of Customer 172
+305. Next event: Departure from Server 9
+
+---------No. of customers delayed: 143--------
+
+306. Next event: Arrival of Customer 173
+307. Next event: Departure from Server 6
+
+---------No. of customers delayed: 144--------
+
+308. Next event: Departure from Server 10
+
+---------No. of customers delayed: 145--------
+
+309. Next event: Departure from Server 10
+
+---------No. of customers delayed: 146--------
+
+310. Next event: Departure from Server 9
+
+---------No. of customers delayed: 147--------
+
+311. Next event: Departure from Server 8
+
+---------No. of customers delayed: 148--------
+
+312. Next event: Arrival of Customer 174
+313. Next event: Departure from Server 9
+
+---------No. of customers delayed: 149--------
+
+314. Next event: Arrival of Customer 175
+315. Next event: Departure from Server 7
+
+---------No. of customers delayed: 150--------
+
+316. Next event: Arrival of Customer 176
+317. Next event: Departure from Server 9
+
+---------No. of customers delayed: 151--------
+
+318. Next event: Departure from Server 8
+
+---------No. of customers delayed: 152--------
+
+319. Next event: Departure from Server 7
+
+---------No. of customers delayed: 153--------
+
+320. Next event: Departure from Server 6
+
+---------No. of customers delayed: 154--------
+
+321. Next event: Departure from Server 10
+
+---------No. of customers delayed: 155--------
+
+322. Next event: Arrival of Customer 177
+323. Next event: Arrival of Customer 178
+324. Next event: Departure from Server 6
+
+---------No. of customers delayed: 156--------
+
+325. Next event: Departure from Server 6
+
+---------No. of customers delayed: 157--------
+
+326. Next event: Departure from Server 9
+
+---------No. of customers delayed: 158--------
+
+327. Next event: Arrival of Customer 179
+328. Next event: Departure from Server 10
+
+---------No. of customers delayed: 159--------
+
+329. Next event: Departure from Server 9
+
+---------No. of customers delayed: 160--------
+
+330. Next event: Arrival of Customer 180
+331. Next event: Arrival of Customer 181
+332. Next event: Departure from Server 8
+
+---------No. of customers delayed: 161--------
+
+333. Next event: Arrival of Customer 182
+334. Next event: Departure from Server 7
+
+---------No. of customers delayed: 162--------
+
+335. Next event: Departure from Server 6
+
+---------No. of customers delayed: 163--------
+
+336. Next event: Departure from Server 9
+
+---------No. of customers delayed: 164--------
+
+337. Next event: Arrival of Customer 183
+338. Next event: Departure from Server 8
+
+---------No. of customers delayed: 165--------
+
+339. Next event: Departure from Server 9
+
+---------No. of customers delayed: 166--------
+
+340. Next event: Arrival of Customer 184
+341. Next event: Departure from Server 7
+
+---------No. of customers delayed: 167--------
+
+342. Next event: Arrival of Customer 185
+343. Next event: Departure from Server 9
+
+---------No. of customers delayed: 168--------
+
+344. Next event: Departure from Server 6
+
+---------No. of customers delayed: 169--------
+
+345. Next event: Arrival of Customer 186
+346. Next event: Departure from Server 7
+
+---------No. of customers delayed: 170--------
+
+347. Next event: Departure from Server 10
+
+---------No. of customers delayed: 171--------
+
+348. Next event: Arrival of Customer 187
+349. Next event: Arrival of Customer 188
+350. Next event: Departure from Server 9
+
+---------No. of customers delayed: 172--------
+
+351. Next event: Departure from Server 7
+
+---------No. of customers delayed: 173--------
+
+352. Next event: Arrival of Customer 189
+353. Next event: Departure from Server 9
+
+---------No. of customers delayed: 174--------
+
+354. Next event: Departure from Server 6
+
+---------No. of customers delayed: 175--------
+
+355. Next event: Arrival of Customer 190
+356. Next event: Departure from Server 7
+
+---------No. of customers delayed: 176--------
+
+357. Next event: Departure from Server 6
+
+---------No. of customers delayed: 177--------
+
+358. Next event: Departure from Server 8
+
+---------No. of customers delayed: 178--------
+
+359. Next event: Arrival of Customer 191
+360. Next event: Arrival of Customer 192
+361. Next event: Arrival of Customer 193
+362. Next event: Departure from Server 10
+
+---------No. of customers delayed: 179--------
+
+363. Next event: Departure from Server 10
+
+---------No. of customers delayed: 180--------
+
+364. Next event: Arrival of Customer 194
+365. Next event: Arrival of Customer 195
+366. Next event: Arrival of Customer 196
+367. Next event: Arrival of Customer 197
+368. Next event: Departure from Server 7
+
+---------No. of customers delayed: 181--------
+
+369. Next event: Departure from Server 10
+
+---------No. of customers delayed: 182--------
+
+370. Next event: Arrival of Customer 198
+371. Next event: Departure from Server 6
+
+---------No. of customers delayed: 183--------
+
+372. Next event: Departure from Server 8
+
+---------No. of customers delayed: 184--------
+
+373. Next event: Departure from Server 6
+
+---------No. of customers delayed: 185--------
+
+374. Next event: Departure from Server 8
+
+---------No. of customers delayed: 186--------
+
+375. Next event: Departure from Server 7
+
+---------No. of customers delayed: 187--------
+
+376. Next event: Arrival of Customer 199
+377. Next event: Departure from Server 9
+
+---------No. of customers delayed: 188--------
+
+378. Next event: Departure from Server 9
+
+---------No. of customers delayed: 189--------
+
+379. Next event: Arrival of Customer 200
+380. Next event: Arrival of Customer 201
+381. Next event: Arrival of Customer 202
+382. Next event: Arrival of Customer 203
+383. Next event: Arrival of Customer 204
+384. Next event: Departure from Server 6
+
+---------No. of customers delayed: 190--------
+
+385. Next event: Departure from Server 7
+
+---------No. of customers delayed: 191--------
+
+386. Next event: Arrival of Customer 205
+387. Next event: Arrival of Customer 206
+388. Next event: Departure from Server 10
+
+---------No. of customers delayed: 192--------
+
+389. Next event: Arrival of Customer 207
+390. Next event: Arrival of Customer 208
+391. Next event: Departure from Server 9
+
+---------No. of customers delayed: 193--------
+
+392. Next event: Departure from Server 8
+
+---------No. of customers delayed: 194--------
+
+393. Next event: Departure from Server 6
+
+---------No. of customers delayed: 195--------
+
+394. Next event: Departure from Server 6
+
+---------No. of customers delayed: 196--------
+
+395. Next event: Arrival of Customer 209
+396. Next event: Arrival of Customer 210
+397. Next event: Departure from Server 8
+
+---------No. of customers delayed: 197--------
+
+398. Next event: Departure from Server 8
+
+---------No. of customers delayed: 198--------
+
+399. Next event: Departure from Server 8
+
+---------No. of customers delayed: 199--------
+
+400. Next event: Departure from Server 8
+
+---------No. of customers delayed: 200--------
+
+401. Next event: Arrival of Customer 211
+402. Next event: Arrival of Customer 212
+403. Next event: Arrival of Customer 213
+404. Next event: Departure from Server 9
+
+---------No. of customers delayed: 201--------
+
+405. Next event: Departure from Server 6
+
+---------No. of customers delayed: 202--------
+
+406. Next event: Departure from Server 10
+
+---------No. of customers delayed: 203--------
+
+407. Next event: Departure from Server 6
+
+---------No. of customers delayed: 204--------
+
+408. Next event: Arrival of Customer 214
+409. Next event: Departure from Server 9
+
+---------No. of customers delayed: 205--------
+
+410. Next event: Departure from Server 9
+
+---------No. of customers delayed: 206--------
+
+411. Next event: Departure from Server 6
+
+---------No. of customers delayed: 207--------
+
+412. Next event: Departure from Server 10
+
+---------No. of customers delayed: 208--------
+
+413. Next event: Departure from Server 10
+
+---------No. of customers delayed: 209--------
+
+414. Next event: Arrival of Customer 215
+415. Next event: Departure from Server 7
+
+---------No. of customers delayed: 210--------
+
+416. Next event: Arrival of Customer 216
+417. Next event: Arrival of Customer 217
+418. Next event: Arrival of Customer 218
+419. Next event: Arrival of Customer 219
+420. Next event: Departure from Server 7
+
+---------No. of customers delayed: 211--------
+
+421. Next event: Departure from Server 10
+
+---------No. of customers delayed: 212--------
+
+422. Next event: Departure from Server 10
+
+---------No. of customers delayed: 213--------
+
+423. Next event: Arrival of Customer 220
+424. Next event: Arrival of Customer 221
+425. Next event: Arrival of Customer 222
+426. Next event: Arrival of Customer 223
+427. Next event: Arrival of Customer 224
+428. Next event: Arrival of Customer 225
+429. Next event: Departure from Server 7
+
+---------No. of customers delayed: 214--------
+
+430. Next event: Departure from Server 8
+
+---------No. of customers delayed: 215--------
+
+431. Next event: Arrival of Customer 226
+432. Next event: Departure from Server 8
+
+---------No. of customers delayed: 216--------
+
+433. Next event: Departure from Server 6
+
+---------No. of customers delayed: 217--------
+
+434. Next event: Arrival of Customer 227
+435. Next event: Departure from Server 6
+
+---------No. of customers delayed: 218--------
+
+436. Next event: Arrival of Customer 228
+437. Next event: Arrival of Customer 229
+438. Next event: Departure from Server 7
+
+---------No. of customers delayed: 219--------
+
+439. Next event: Departure from Server 8
+
+---------No. of customers delayed: 220--------
+
+440. Next event: Departure from Server 10
+
+---------No. of customers delayed: 221--------
+
+441. Next event: Departure from Server 9
+
+---------No. of customers delayed: 222--------
+
+442. Next event: Departure from Server 9
+
+---------No. of customers delayed: 223--------
+
+443. Next event: Departure from Server 10
+
+---------No. of customers delayed: 224--------
+
+444. Next event: Arrival of Customer 230
+445. Next event: Arrival of Customer 231
+446. Next event: Arrival of Customer 232
+447. Next event: Departure from Server 7
+
+---------No. of customers delayed: 225--------
+
+448. Next event: Arrival of Customer 233
+449. Next event: Departure from Server 6
+
+---------No. of customers delayed: 226--------
+
+450. Next event: Departure from Server 7
+
+---------No. of customers delayed: 227--------
+
+451. Next event: Arrival of Customer 234
+452. Next event: Arrival of Customer 235
+453. Next event: Departure from Server 10
+
+---------No. of customers delayed: 228--------
+
+454. Next event: Departure from Server 10
+
+---------No. of customers delayed: 229--------
+
+455. Next event: Departure from Server 8
+
+---------No. of customers delayed: 230--------
+
+456. Next event: Departure from Server 6
+
+---------No. of customers delayed: 231--------
+
+457. Next event: Departure from Server 7
+
+---------No. of customers delayed: 232--------
+
+458. Next event: Arrival of Customer 236
+459. Next event: Departure from Server 10
+
+---------No. of customers delayed: 233--------
+
+460. Next event: Departure from Server 9
+
+---------No. of customers delayed: 234--------
+
+461. Next event: Departure from Server 10
+
+---------No. of customers delayed: 235--------
+
+462. Next event: Arrival of Customer 237
+463. Next event: Departure from Server 10
+
+---------No. of customers delayed: 236--------
+
+464. Next event: Arrival of Customer 238
+465. Next event: Arrival of Customer 239
+466. Next event: Arrival of Customer 240
+467. Next event: Arrival of Customer 241
+468. Next event: Departure from Server 6
+
+---------No. of customers delayed: 237--------
+
+469. Next event: Arrival of Customer 242
+470. Next event: Arrival of Customer 243
+471. Next event: Departure from Server 6
+
+---------No. of customers delayed: 238--------
+
+472. Next event: Arrival of Customer 244
+473. Next event: Departure from Server 9
+
+---------No. of customers delayed: 239--------
+
+474. Next event: Arrival of Customer 245
+475. Next event: Departure from Server 8
+
+---------No. of customers delayed: 240--------
+
+476. Next event: Departure from Server 9
+
+---------No. of customers delayed: 241--------
+
+477. Next event: Arrival of Customer 246
+478. Next event: Arrival of Customer 247
+479. Next event: Departure from Server 8
+
+---------No. of customers delayed: 242--------
+
+480. Next event: Departure from Server 10
+
+---------No. of customers delayed: 243--------
+
+481. Next event: Departure from Server 6
+
+---------No. of customers delayed: 244--------
+
+482. Next event: Departure from Server 8
+
+---------No. of customers delayed: 245--------
+
+483. Next event: Arrival of Customer 248
+484. Next event: Arrival of Customer 249
+485. Next event: Arrival of Customer 250
+486. Next event: Arrival of Customer 251
+487. Next event: Departure from Server 9
+
+---------No. of customers delayed: 246--------
+
+488. Next event: Arrival of Customer 252
+489. Next event: Arrival of Customer 253
+490. Next event: Arrival of Customer 254
+491. Next event: Arrival of Customer 255
+492. Next event: Arrival of Customer 256
+493. Next event: Arrival of Customer 257
+494. Next event: Arrival of Customer 258
+495. Next event: Departure from Server 8
+
+---------No. of customers delayed: 247--------
+
+496. Next event: Arrival of Customer 259
+497. Next event: Arrival of Customer 260
+498. Next event: Arrival of Customer 261
+499. Next event: Arrival of Customer 262
+500. Next event: Arrival of Customer 263
+501. Next event: Departure from Server 8
+
+---------No. of customers delayed: 248--------
+
+502. Next event: Departure from Server 9
+
+---------No. of customers delayed: 249--------
+
+503. Next event: Departure from Server 7
+
+---------No. of customers delayed: 250--------
+
+504. Next event: Departure from Server 8
+
+---------No. of customers delayed: 251--------
+
+505. Next event: Arrival of Customer 264
+506. Next event: Arrival of Customer 265
+507. Next event: Arrival of Customer 266
+508. Next event: Arrival of Customer 267
+509. Next event: Arrival of Customer 268
+510. Next event: Arrival of Customer 269
+511. Next event: Arrival of Customer 270
+512. Next event: Arrival of Customer 271
+513. Next event: Arrival of Customer 272
+514. Next event: Arrival of Customer 273
+515. Next event: Arrival of Customer 274
+516. Next event: Arrival of Customer 275
+517. Next event: Arrival of Customer 276
+518. Next event: Departure from Server 8
+
+---------No. of customers delayed: 252--------
+
+519. Next event: Departure from Server 9
+
+---------No. of customers delayed: 253--------
+
+520. Next event: Arrival of Customer 277
+521. Next event: Arrival of Customer 278
+522. Next event: Arrival of Customer 279
+523. Next event: Arrival of Customer 280
+524. Next event: Arrival of Customer 281
+525. Next event: Departure from Server 8
+
+---------No. of customers delayed: 254--------
+
+526. Next event: Departure from Server 10
+
+---------No. of customers delayed: 255--------
+
+527. Next event: Arrival of Customer 282
+528. Next event: Departure from Server 10
+
+---------No. of customers delayed: 256--------
+
+529. Next event: Arrival of Customer 283
+530. Next event: Arrival of Customer 284
+531. Next event: Arrival of Customer 285
+532. Next event: Arrival of Customer 286
+533. Next event: Arrival of Customer 287
+534. Next event: Departure from Server 9
+
+---------No. of customers delayed: 257--------
+
+535. Next event: Arrival of Customer 288
+536. Next event: Arrival of Customer 289
+537. Next event: Departure from Server 9
+
+---------No. of customers delayed: 258--------
+
+538. Next event: Departure from Server 6
+
+---------No. of customers delayed: 259--------
+
+539. Next event: Departure from Server 9
+
+---------No. of customers delayed: 260--------
+
+540. Next event: Arrival of Customer 290
+541. Next event: Arrival of Customer 291
+542. Next event: Departure from Server 8
+
+---------No. of customers delayed: 261--------
+
+543. Next event: Departure from Server 7
+
+---------No. of customers delayed: 262--------
+
+544. Next event: Arrival of Customer 292
+545. Next event: Departure from Server 7
+
+---------No. of customers delayed: 263--------
+
+546. Next event: Arrival of Customer 293
+547. Next event: Arrival of Customer 294
+548. Next event: Arrival of Customer 295
+549. Next event: Departure from Server 7
+
+---------No. of customers delayed: 264--------
+
+550. Next event: Departure from Server 9
+
+---------No. of customers delayed: 265--------
+
+551. Next event: Departure from Server 7
+
+---------No. of customers delayed: 266--------
+
+552. Next event: Departure from Server 6
+
+---------No. of customers delayed: 267--------
+
+553. Next event: Departure from Server 7
+
+---------No. of customers delayed: 268--------
+
+554. Next event: Departure from Server 10
+
+---------No. of customers delayed: 269--------
+
+555. Next event: Departure from Server 10
+
+---------No. of customers delayed: 270--------
+
+556. Next event: Arrival of Customer 296
+557. Next event: Arrival of Customer 297
+558. Next event: Departure from Server 7
+
+---------No. of customers delayed: 271--------
+
+559. Next event: Arrival of Customer 298
+560. Next event: Departure from Server 9
+
+---------No. of customers delayed: 272--------
+
+561. Next event: Arrival of Customer 299
+562. Next event: Departure from Server 7
+
+---------No. of customers delayed: 273--------
+
+563. Next event: Arrival of Customer 300
+564. Next event: Departure from Server 9
+
+---------No. of customers delayed: 274--------
+
+565. Next event: Arrival of Customer 301
+566. Next event: Arrival of Customer 302
+567. Next event: Arrival of Customer 303
+568. Next event: Departure from Server 6
+
+---------No. of customers delayed: 275--------
+
+569. Next event: Departure from Server 6
+
+---------No. of customers delayed: 276--------
+
+570. Next event: Arrival of Customer 304
+571. Next event: Departure from Server 6
+
+---------No. of customers delayed: 277--------
+
+572. Next event: Arrival of Customer 305
+573. Next event: Departure from Server 8
+
+---------No. of customers delayed: 278--------
+
+574. Next event: Departure from Server 8
+
+---------No. of customers delayed: 279--------
+
+575. Next event: Departure from Server 8
+
+---------No. of customers delayed: 280--------
+
+576. Next event: Arrival of Customer 306
+577. Next event: Departure from Server 8
+
+---------No. of customers delayed: 281--------
+
+578. Next event: Departure from Server 7
+
+---------No. of customers delayed: 282--------
+
+579. Next event: Arrival of Customer 307
+580. Next event: Arrival of Customer 308
+581. Next event: Departure from Server 9
+
+---------No. of customers delayed: 283--------
+
+582. Next event: Arrival of Customer 309
+583. Next event: Departure from Server 6
+
+---------No. of customers delayed: 284--------
+
+584. Next event: Departure from Server 9
+
+---------No. of customers delayed: 285--------
+
+585. Next event: Departure from Server 7
+
+---------No. of customers delayed: 286--------
+
+586. Next event: Departure from Server 9
+
+---------No. of customers delayed: 287--------
+
+587. Next event: Departure from Server 8
+
+---------No. of customers delayed: 288--------
+
+588. Next event: Arrival of Customer 310
+589. Next event: Departure from Server 9
+
+---------No. of customers delayed: 289--------
+
+590. Next event: Arrival of Customer 311
+591. Next event: Arrival of Customer 312
+592. Next event: Departure from Server 8
+
+---------No. of customers delayed: 290--------
+
+593. Next event: Arrival of Customer 313
+594. Next event: Arrival of Customer 314
+595. Next event: Arrival of Customer 315
+596. Next event: Arrival of Customer 316
+597. Next event: Arrival of Customer 317
+598. Next event: Departure from Server 9
+
+---------No. of customers delayed: 291--------
+
+599. Next event: Arrival of Customer 318
+600. Next event: Arrival of Customer 319
+601. Next event: Departure from Server 8
+
+---------No. of customers delayed: 292--------
+
+602. Next event: Arrival of Customer 320
+603. Next event: Departure from Server 7
+
+---------No. of customers delayed: 293--------
+
+604. Next event: Departure from Server 8
+
+---------No. of customers delayed: 294--------
+
+605. Next event: Arrival of Customer 321
+606. Next event: Arrival of Customer 322
+607. Next event: Arrival of Customer 323
+608. Next event: Arrival of Customer 324
+609. Next event: Arrival of Customer 325
+610. Next event: Arrival of Customer 326
+611. Next event: Departure from Server 6
+
+---------No. of customers delayed: 295--------
+
+612. Next event: Departure from Server 6
+
+---------No. of customers delayed: 296--------
+
+613. Next event: Arrival of Customer 327
+614. Next event: Arrival of Customer 328
+615. Next event: Arrival of Customer 329
+616. Next event: Departure from Server 10
+
+---------No. of customers delayed: 297--------
+
+617. Next event: Arrival of Customer 330
+618. Next event: Arrival of Customer 331
+619. Next event: Arrival of Customer 332
+620. Next event: Arrival of Customer 333
+621. Next event: Departure from Server 6
+
+---------No. of customers delayed: 298--------
+
+622. Next event: Arrival of Customer 334
+623. Next event: Departure from Server 10
+
+---------No. of customers delayed: 299--------
+
+624. Next event: Arrival of Customer 335
+625. Next event: Departure from Server 6
+
+---------No. of customers delayed: 300--------
+
+626. Next event: Arrival of Customer 336
+627. Next event: Arrival of Customer 337
+628. Next event: Arrival of Customer 338
+629. Next event: Arrival of Customer 339
+630. Next event: Arrival of Customer 340
+631. Next event: Departure from Server 7
+
+---------No. of customers delayed: 301--------
+
+632. Next event: Arrival of Customer 341
+633. Next event: Departure from Server 8
+
+---------No. of customers delayed: 302--------
+
+634. Next event: Arrival of Customer 342
+635. Next event: Departure from Server 7
+
+---------No. of customers delayed: 303--------
+
+636. Next event: Arrival of Customer 343
+637. Next event: Departure from Server 10
+
+---------No. of customers delayed: 304--------
+
+638. Next event: Arrival of Customer 344
+639. Next event: Arrival of Customer 345
+640. Next event: Departure from Server 7
+
+---------No. of customers delayed: 305--------
+
+641. Next event: Departure from Server 10
+
+---------No. of customers delayed: 306--------
+
+642. Next event: Departure from Server 8
+
+---------No. of customers delayed: 307--------
+
+643. Next event: Arrival of Customer 346
+644. Next event: Arrival of Customer 347
+645. Next event: Arrival of Customer 348
+646. Next event: Departure from Server 7
+
+---------No. of customers delayed: 308--------
+
+647. Next event: Departure from Server 7
+
+---------No. of customers delayed: 309--------
+
+648. Next event: Departure from Server 9
+
+---------No. of customers delayed: 310--------
+
+649. Next event: Departure from Server 9
+
+---------No. of customers delayed: 311--------
+
+650. Next event: Arrival of Customer 349
+651. Next event: Arrival of Customer 350
+652. Next event: Arrival of Customer 351
+653. Next event: Departure from Server 6
+
+---------No. of customers delayed: 312--------
+
+654. Next event: Arrival of Customer 352
+655. Next event: Departure from Server 7
+
+---------No. of customers delayed: 313--------
+
+656. Next event: Departure from Server 7
+
+---------No. of customers delayed: 314--------
+
+657. Next event: Arrival of Customer 353
+658. Next event: Arrival of Customer 354
+659. Next event: Arrival of Customer 355
+660. Next event: Departure from Server 8
+
+---------No. of customers delayed: 315--------
+
+661. Next event: Arrival of Customer 356
+662. Next event: Departure from Server 8
+
+---------No. of customers delayed: 316--------
+
+663. Next event: Departure from Server 6
+
+---------No. of customers delayed: 317--------
+
+664. Next event: Arrival of Customer 357
+665. Next event: Departure from Server 6
+
+---------No. of customers delayed: 318--------
+
+666. Next event: Arrival of Customer 358
+667. Next event: Arrival of Customer 359
+668. Next event: Arrival of Customer 360
+669. Next event: Departure from Server 6
+
+---------No. of customers delayed: 319--------
+
+670. Next event: Arrival of Customer 361
+671. Next event: Arrival of Customer 362
+672. Next event: Departure from Server 10
+
+---------No. of customers delayed: 320--------
+
+673. Next event: Arrival of Customer 363
+674. Next event: Arrival of Customer 364
+675. Next event: Arrival of Customer 365
+676. Next event: Arrival of Customer 366
+677. Next event: Arrival of Customer 367
+678. Next event: Departure from Server 10
+
+---------No. of customers delayed: 321--------
+
+679. Next event: Departure from Server 8
+
+---------No. of customers delayed: 322--------
+
+680. Next event: Departure from Server 7
+
+---------No. of customers delayed: 323--------
+
+681. Next event: Departure from Server 10
+
+---------No. of customers delayed: 324--------
+
+682. Next event: Departure from Server 7
+
+---------No. of customers delayed: 325--------
+
+683. Next event: Arrival of Customer 368
+684. Next event: Departure from Server 9
+
+---------No. of customers delayed: 326--------
+
+685. Next event: Arrival of Customer 369
+686. Next event: Arrival of Customer 370
+687. Next event: Departure from Server 7
+
+---------No. of customers delayed: 327--------
+
+688. Next event: Arrival of Customer 371
+689. Next event: Departure from Server 10
+
+---------No. of customers delayed: 328--------
+
+690. Next event: Arrival of Customer 372
+691. Next event: Departure from Server 7
+
+---------No. of customers delayed: 329--------
+
+692. Next event: Departure from Server 10
+
+---------No. of customers delayed: 330--------
+
+693. Next event: Arrival of Customer 373
+694. Next event: Arrival of Customer 374
+695. Next event: Arrival of Customer 375
+696. Next event: Departure from Server 10
+
+---------No. of customers delayed: 331--------
+
+697. Next event: Departure from Server 10
+
+---------No. of customers delayed: 332--------
+
+698. Next event: Arrival of Customer 376
+699. Next event: Departure from Server 9
+
+---------No. of customers delayed: 333--------
+
+700. Next event: Arrival of Customer 377
+701. Next event: Departure from Server 7
+
+---------No. of customers delayed: 334--------
+
+702. Next event: Arrival of Customer 378
+703. Next event: Arrival of Customer 379
+704. Next event: Departure from Server 8
+
+---------No. of customers delayed: 335--------
+
+705. Next event: Arrival of Customer 380
+706. Next event: Arrival of Customer 381
+707. Next event: Departure from Server 10
+
+---------No. of customers delayed: 336--------
+
+708. Next event: Departure from Server 10
+
+---------No. of customers delayed: 337--------
+
+709. Next event: Arrival of Customer 382
+710. Next event: Arrival of Customer 383
+711. Next event: Departure from Server 9
+
+---------No. of customers delayed: 338--------
+
+712. Next event: Arrival of Customer 384
+713. Next event: Departure from Server 10
+
+---------No. of customers delayed: 339--------
+
+714. Next event: Arrival of Customer 385
+715. Next event: Arrival of Customer 386
+716. Next event: Departure from Server 7
+
+---------No. of customers delayed: 340--------
+
+717. Next event: Arrival of Customer 387
+718. Next event: Arrival of Customer 388
+719. Next event: Arrival of Customer 389
+720. Next event: Arrival of Customer 390
+721. Next event: Arrival of Customer 391
+722. Next event: Departure from Server 10
+
+---------No. of customers delayed: 341--------
+
+723. Next event: Departure from Server 7
+
+---------No. of customers delayed: 342--------
+
+724. Next event: Arrival of Customer 392
+725. Next event: Arrival of Customer 393
+726. Next event: Arrival of Customer 394
+727. Next event: Departure from Server 7
+
+---------No. of customers delayed: 343--------
+
+728. Next event: Arrival of Customer 395
+729. Next event: Arrival of Customer 396
+730. Next event: Arrival of Customer 397
+731. Next event: Departure from Server 9
+
+---------No. of customers delayed: 344--------
+
+732. Next event: Arrival of Customer 398
+733. Next event: Arrival of Customer 399
+734. Next event: Arrival of Customer 400
+735. Next event: Departure from Server 10
+
+---------No. of customers delayed: 345--------
+
+736. Next event: Departure from Server 9
+
+---------No. of customers delayed: 346--------
+
+737. Next event: Arrival of Customer 401
+738. Next event: Departure from Server 6
+
+---------No. of customers delayed: 347--------
+
+739. Next event: Departure from Server 8
+
+---------No. of customers delayed: 348--------
+
+740. Next event: Arrival of Customer 402
+741. Next event: Arrival of Customer 403
+742. Next event: Departure from Server 8
+
+---------No. of customers delayed: 349--------
+
+743. Next event: Arrival of Customer 404
+744. Next event: Arrival of Customer 405
+745. Next event: Departure from Server 7
+
+---------No. of customers delayed: 350--------
+
+746. Next event: Departure from Server 10
+
+---------No. of customers delayed: 351--------
+
+747. Next event: Departure from Server 7
+
+---------No. of customers delayed: 352--------
+
+748. Next event: Arrival of Customer 406
+749. Next event: Departure from Server 9
+
+---------No. of customers delayed: 353--------
+
+750. Next event: Arrival of Customer 407
+751. Next event: Departure from Server 10
+
+---------No. of customers delayed: 354--------
+
+752. Next event: Departure from Server 10
+
+---------No. of customers delayed: 355--------
+
+753. Next event: Arrival of Customer 408
+754. Next event: Arrival of Customer 409
+755. Next event: Arrival of Customer 410
+756. Next event: Departure from Server 7
+
+---------No. of customers delayed: 356--------
+
+757. Next event: Arrival of Customer 411
+758. Next event: Departure from Server 9
+
+---------No. of customers delayed: 357--------
+
+759. Next event: Arrival of Customer 412
+760. Next event: Arrival of Customer 413
+761. Next event: Arrival of Customer 414
+762. Next event: Arrival of Customer 415
+763. Next event: Arrival of Customer 416
+764. Next event: Departure from Server 10
+
+---------No. of customers delayed: 358--------
+
+765. Next event: Arrival of Customer 417
+766. Next event: Arrival of Customer 418
+767. Next event: Departure from Server 8
+
+---------No. of customers delayed: 359--------
+
+768. Next event: Departure from Server 9
+
+---------No. of customers delayed: 360--------
+
+769. Next event: Departure from Server 7
+
+---------No. of customers delayed: 361--------
+
+770. Next event: Departure from Server 8
+
+---------No. of customers delayed: 362--------
+
+771. Next event: Departure from Server 7
+
+---------No. of customers delayed: 363--------
+
+772. Next event: Arrival of Customer 419
+773. Next event: Arrival of Customer 420
+774. Next event: Arrival of Customer 421
+775. Next event: Arrival of Customer 422
+776. Next event: Departure from Server 7
+
+---------No. of customers delayed: 364--------
+
+777. Next event: Departure from Server 7
+
+---------No. of customers delayed: 365--------
+
+778. Next event: Departure from Server 8
+
+---------No. of customers delayed: 366--------
+
+779. Next event: Arrival of Customer 423
+780. Next event: Departure from Server 9
+
+---------No. of customers delayed: 367--------
+
+781. Next event: Departure from Server 7
+
+---------No. of customers delayed: 368--------
+
+782. Next event: Arrival of Customer 424
+783. Next event: Departure from Server 6
+
+---------No. of customers delayed: 369--------
+
+784. Next event: Departure from Server 9
+
+---------No. of customers delayed: 370--------
+
+785. Next event: Departure from Server 7
+
+---------No. of customers delayed: 371--------
+
+786. Next event: Departure from Server 8
+
+---------No. of customers delayed: 372--------
+
+787. Next event: Arrival of Customer 425
+788. Next event: Departure from Server 7
+
+---------No. of customers delayed: 373--------
+
+789. Next event: Arrival of Customer 426
+790. Next event: Departure from Server 10
+
+---------No. of customers delayed: 374--------
+
+791. Next event: Departure from Server 10
+
+---------No. of customers delayed: 375--------
+
+792. Next event: Departure from Server 9
+
+---------No. of customers delayed: 376--------
+
+793. Next event: Arrival of Customer 427
+794. Next event: Arrival of Customer 428
+795. Next event: Departure from Server 7
+
+---------No. of customers delayed: 377--------
+
+796. Next event: Arrival of Customer 429
+797. Next event: Departure from Server 8
+
+---------No. of customers delayed: 378--------
+
+798. Next event: Arrival of Customer 430
+799. Next event: Arrival of Customer 431
+800. Next event: Arrival of Customer 432
+801. Next event: Departure from Server 10
+
+---------No. of customers delayed: 379--------
+
+802. Next event: Departure from Server 9
+
+---------No. of customers delayed: 380--------
+
+803. Next event: Departure from Server 9
+
+---------No. of customers delayed: 381--------
+
+804. Next event: Arrival of Customer 433
+805. Next event: Arrival of Customer 434
+806. Next event: Arrival of Customer 435
+807. Next event: Arrival of Customer 436
+808. Next event: Arrival of Customer 437
+809. Next event: Departure from Server 6
+
+---------No. of customers delayed: 382--------
+
+810. Next event: Arrival of Customer 438
+811. Next event: Arrival of Customer 439
+812. Next event: Arrival of Customer 440
+813. Next event: Arrival of Customer 441
+814. Next event: Departure from Server 10
+
+---------No. of customers delayed: 383--------
+
+815. Next event: Departure from Server 8
+
+---------No. of customers delayed: 384--------
+
+816. Next event: Arrival of Customer 442
+817. Next event: Departure from Server 8
+
+---------No. of customers delayed: 385--------
+
+818. Next event: Arrival of Customer 443
+819. Next event: Arrival of Customer 444
+820. Next event: Arrival of Customer 445
+821. Next event: Arrival of Customer 446
+822. Next event: Arrival of Customer 447
+823. Next event: Arrival of Customer 448
+824. Next event: Departure from Server 10
+
+---------No. of customers delayed: 386--------
+
+825. Next event: Departure from Server 6
+
+---------No. of customers delayed: 387--------
+
+826. Next event: Departure from Server 8
+
+---------No. of customers delayed: 388--------
+
+827. Next event: Arrival of Customer 449
+828. Next event: Arrival of Customer 450
+829. Next event: Departure from Server 8
+
+---------No. of customers delayed: 389--------
+
+830. Next event: Departure from Server 9
+
+---------No. of customers delayed: 390--------
+
+831. Next event: Departure from Server 6
+
+---------No. of customers delayed: 391--------
+
+832. Next event: Departure from Server 7
+
+---------No. of customers delayed: 392--------
+
+833. Next event: Departure from Server 9
+
+---------No. of customers delayed: 393--------
+
+834. Next event: Departure from Server 9
+
+---------No. of customers delayed: 394--------
+
+835. Next event: Arrival of Customer 451
+836. Next event: Arrival of Customer 452
+837. Next event: Arrival of Customer 453
+838. Next event: Arrival of Customer 454
+839. Next event: Arrival of Customer 455
+840. Next event: Departure from Server 7
+
+---------No. of customers delayed: 395--------
+
+841. Next event: Departure from Server 8
+
+---------No. of customers delayed: 396--------
+
+842. Next event: Arrival of Customer 456
+843. Next event: Arrival of Customer 457
+844. Next event: Arrival of Customer 458
+845. Next event: Departure from Server 6
+
+---------No. of customers delayed: 397--------
+
+846. Next event: Departure from Server 6
+
+---------No. of customers delayed: 398--------
+
+847. Next event: Arrival of Customer 459
+848. Next event: Departure from Server 6
+
+---------No. of customers delayed: 399--------
+
+849. Next event: Departure from Server 9
+
+---------No. of customers delayed: 400--------
+
+850. Next event: Arrival of Customer 460
+851. Next event: Arrival of Customer 461
+852. Next event: Departure from Server 9
+
+---------No. of customers delayed: 401--------
+
+853. Next event: Arrival of Customer 462
+854. Next event: Departure from Server 8
+
+---------No. of customers delayed: 402--------
+
+855. Next event: Arrival of Customer 463
+856. Next event: Departure from Server 6
+
+---------No. of customers delayed: 403--------
+
+857. Next event: Arrival of Customer 464
+858. Next event: Departure from Server 10
+
+---------No. of customers delayed: 404--------
+
+859. Next event: Arrival of Customer 465
+860. Next event: Departure from Server 7
+
+---------No. of customers delayed: 405--------
+
+861. Next event: Arrival of Customer 466
+862. Next event: Departure from Server 9
+
+---------No. of customers delayed: 406--------
+
+863. Next event: Departure from Server 9
+
+---------No. of customers delayed: 407--------
+
+864. Next event: Arrival of Customer 467
+865. Next event: Arrival of Customer 468
+866. Next event: Arrival of Customer 469
+867. Next event: Arrival of Customer 470
+868. Next event: Departure from Server 8
+
+---------No. of customers delayed: 408--------
+
+869. Next event: Arrival of Customer 471
+870. Next event: Arrival of Customer 472
+871. Next event: Departure from Server 10
+
+---------No. of customers delayed: 409--------
+
+872. Next event: Arrival of Customer 473
+873. Next event: Departure from Server 6
+
+---------No. of customers delayed: 410--------
+
+874. Next event: Arrival of Customer 474
+875. Next event: Arrival of Customer 475
+876. Next event: Arrival of Customer 476
+877. Next event: Departure from Server 6
+
+---------No. of customers delayed: 411--------
+
+878. Next event: Arrival of Customer 477
+879. Next event: Departure from Server 9
+
+---------No. of customers delayed: 412--------
+
+880. Next event: Departure from Server 6
+
+---------No. of customers delayed: 413--------
+
+881. Next event: Departure from Server 9
+
+---------No. of customers delayed: 414--------
+
+882. Next event: Departure from Server 6
+
+---------No. of customers delayed: 415--------
+
+883. Next event: Departure from Server 9
+
+---------No. of customers delayed: 416--------
+
+884. Next event: Arrival of Customer 478
+885. Next event: Arrival of Customer 479
+886. Next event: Arrival of Customer 480
+887. Next event: Departure from Server 10
+
+---------No. of customers delayed: 417--------
+
+888. Next event: Arrival of Customer 481
+889. Next event: Departure from Server 8
+
+---------No. of customers delayed: 418--------
+
+890. Next event: Arrival of Customer 482
+891. Next event: Departure from Server 8
+
+---------No. of customers delayed: 419--------
+
+892. Next event: Arrival of Customer 483
+893. Next event: Arrival of Customer 484
+894. Next event: Arrival of Customer 485
+895. Next event: Arrival of Customer 486
+896. Next event: Departure from Server 6
+
+---------No. of customers delayed: 420--------
+
+897. Next event: Arrival of Customer 487
+898. Next event: Departure from Server 6
+
+---------No. of customers delayed: 421--------
+
+899. Next event: Departure from Server 9
+
+---------No. of customers delayed: 422--------
+
+900. Next event: Departure from Server 7
+
+---------No. of customers delayed: 423--------
+
+901. Next event: Departure from Server 9
+
+---------No. of customers delayed: 424--------
+
+902. Next event: Departure from Server 10
+
+---------No. of customers delayed: 425--------
+
+903. Next event: Departure from Server 8
+
+---------No. of customers delayed: 426--------
+
+904. Next event: Arrival of Customer 488
+905. Next event: Departure from Server 6
+
+---------No. of customers delayed: 427--------
+
+906. Next event: Arrival of Customer 489
+907. Next event: Arrival of Customer 490
+908. Next event: Arrival of Customer 491
+909. Next event: Departure from Server 10
+
+---------No. of customers delayed: 428--------
+
+910. Next event: Arrival of Customer 492
+911. Next event: Arrival of Customer 493
+912. Next event: Departure from Server 10
+
+---------No. of customers delayed: 429--------
+
+913. Next event: Arrival of Customer 494
+914. Next event: Arrival of Customer 495
+915. Next event: Arrival of Customer 496
+916. Next event: Arrival of Customer 497
+917. Next event: Arrival of Customer 498
+918. Next event: Departure from Server 9
+
+---------No. of customers delayed: 430--------
+
+919. Next event: Arrival of Customer 499
+920. Next event: Arrival of Customer 500
+921. Next event: Departure from Server 9
+
+---------No. of customers delayed: 431--------
+
+922. Next event: Departure from Server 10
+
+---------No. of customers delayed: 432--------
+
+923. Next event: Arrival of Customer 501
+924. Next event: Departure from Server 9
+
+---------No. of customers delayed: 433--------
+
+925. Next event: Arrival of Customer 502
+926. Next event: Departure from Server 9
+
+---------No. of customers delayed: 434--------
+
+927. Next event: Departure from Server 10
+
+---------No. of customers delayed: 435--------
+
+928. Next event: Arrival of Customer 503
+929. Next event: Departure from Server 7
+
+---------No. of customers delayed: 436--------
+
+930. Next event: Departure from Server 8
+
+---------No. of customers delayed: 437--------
+
+931. Next event: Arrival of Customer 504
+932. Next event: Arrival of Customer 505
+933. Next event: Departure from Server 8
+
+---------No. of customers delayed: 438--------
+
+934. Next event: Arrival of Customer 506
+935. Next event: Arrival of Customer 507
+936. Next event: Arrival of Customer 508
+937. Next event: Departure from Server 8
+
+---------No. of customers delayed: 439--------
+
+938. Next event: Departure from Server 6
+
+---------No. of customers delayed: 440--------
+
+939. Next event: Departure from Server 10
+
+---------No. of customers delayed: 441--------
+
+940. Next event: Departure from Server 7
+
+---------No. of customers delayed: 442--------
+
+941. Next event: Arrival of Customer 509
+942. Next event: Departure from Server 6
+
+---------No. of customers delayed: 443--------
+
+943. Next event: Departure from Server 7
+
+---------No. of customers delayed: 444--------
+
+944. Next event: Arrival of Customer 510
+945. Next event: Arrival of Customer 511
+946. Next event: Departure from Server 7
+
+---------No. of customers delayed: 445--------
+
+947. Next event: Arrival of Customer 512
+948. Next event: Departure from Server 6
+
+---------No. of customers delayed: 446--------
+
+949. Next event: Departure from Server 6
+
+---------No. of customers delayed: 447--------
+
+950. Next event: Departure from Server 9
+
+---------No. of customers delayed: 448--------
+
+951. Next event: Arrival of Customer 513
+952. Next event: Arrival of Customer 514
+953. Next event: Arrival of Customer 515
+954. Next event: Departure from Server 8
+
+---------No. of customers delayed: 449--------
+
+955. Next event: Arrival of Customer 516
+956. Next event: Arrival of Customer 517
+957. Next event: Arrival of Customer 518
+958. Next event: Arrival of Customer 519
+959. Next event: Arrival of Customer 520
+960. Next event: Arrival of Customer 521
+961. Next event: Departure from Server 6
+
+---------No. of customers delayed: 450--------
+
+962. Next event: Arrival of Customer 522
+963. Next event: Departure from Server 7
+
+---------No. of customers delayed: 451--------
+
+964. Next event: Departure from Server 9
+
+---------No. of customers delayed: 452--------
+
+965. Next event: Departure from Server 9
+
+---------No. of customers delayed: 453--------
+
+966. Next event: Departure from Server 7
+
+---------No. of customers delayed: 454--------
+
+967. Next event: Arrival of Customer 523
+968. Next event: Departure from Server 9
+
+---------No. of customers delayed: 455--------
+
+969. Next event: Departure from Server 7
+
+---------No. of customers delayed: 456--------
+
+970. Next event: Departure from Server 9
+
+---------No. of customers delayed: 457--------
+
+971. Next event: Departure from Server 6
+
+---------No. of customers delayed: 458--------
+
+972. Next event: Arrival of Customer 524
+973. Next event: Arrival of Customer 525
+974. Next event: Arrival of Customer 526
+975. Next event: Departure from Server 7
+
+---------No. of customers delayed: 459--------
+
+976. Next event: Arrival of Customer 527
+977. Next event: Arrival of Customer 528
+978. Next event: Arrival of Customer 529
+979. Next event: Arrival of Customer 530
+980. Next event: Arrival of Customer 531
+981. Next event: Departure from Server 10
+
+---------No. of customers delayed: 460--------
+
+982. Next event: Arrival of Customer 532
+983. Next event: Departure from Server 7
+
+---------No. of customers delayed: 461--------
+
+984. Next event: Departure from Server 6
+
+---------No. of customers delayed: 462--------
+
+985. Next event: Arrival of Customer 533
+986. Next event: Departure from Server 6
+
+---------No. of customers delayed: 463--------
+
+987. Next event: Arrival of Customer 534
+988. Next event: Departure from Server 8
+
+---------No. of customers delayed: 464--------
+
+989. Next event: Arrival of Customer 535
+990. Next event: Departure from Server 8
+
+---------No. of customers delayed: 465--------
+
+991. Next event: Arrival of Customer 536
+992. Next event: Departure from Server 10
+
+---------No. of customers delayed: 466--------
+
+993. Next event: Arrival of Customer 537
+994. Next event: Departure from Server 6
+
+---------No. of customers delayed: 467--------
+
+995. Next event: Departure from Server 9
+
+---------No. of customers delayed: 468--------
+
+996. Next event: Departure from Server 8
+
+---------No. of customers delayed: 469--------
+
+997. Next event: Departure from Server 10
+
+---------No. of customers delayed: 470--------
+
+998. Next event: Arrival of Customer 538
+999. Next event: Departure from Server 10
+
+---------No. of customers delayed: 471--------
+
+1000. Next event: Arrival of Customer 539
+1001. Next event: Arrival of Customer 540
+1002. Next event: Departure from Server 7
+
+---------No. of customers delayed: 472--------
+
+1003. Next event: Arrival of Customer 541
+1004. Next event: Departure from Server 6
+
+---------No. of customers delayed: 473--------
+
+1005. Next event: Departure from Server 9
+
+---------No. of customers delayed: 474--------
+
+1006. Next event: Arrival of Customer 542
+1007. Next event: Arrival of Customer 543
+1008. Next event: Arrival of Customer 544
+1009. Next event: Departure from Server 8
+
+---------No. of customers delayed: 475--------
+
+1010. Next event: Arrival of Customer 545
+1011. Next event: Arrival of Customer 546
+1012. Next event: Arrival of Customer 547
+1013. Next event: Departure from Server 8
+
+---------No. of customers delayed: 476--------
+
+1014. Next event: Arrival of Customer 548
+1015. Next event: Arrival of Customer 549
+1016. Next event: Departure from Server 10
+
+---------No. of customers delayed: 477--------
+
+1017. Next event: Departure from Server 10
+
+---------No. of customers delayed: 478--------
+
+1018. Next event: Arrival of Customer 550
+1019. Next event: Arrival of Customer 551
+1020. Next event: Arrival of Customer 552
+1021. Next event: Departure from Server 9
+
+---------No. of customers delayed: 479--------
+
+1022. Next event: Arrival of Customer 553
+1023. Next event: Arrival of Customer 554
+1024. Next event: Arrival of Customer 555
+1025. Next event: Arrival of Customer 556
+1026. Next event: Departure from Server 7
+
+---------No. of customers delayed: 480--------
+
+1027. Next event: Departure from Server 8
+
+---------No. of customers delayed: 481--------
+
+1028. Next event: Departure from Server 6
+
+---------No. of customers delayed: 482--------
+
+1029. Next event: Departure from Server 9
+
+---------No. of customers delayed: 483--------
+
+1030. Next event: Arrival of Customer 557
+1031. Next event: Departure from Server 9
+
+---------No. of customers delayed: 484--------
+
+1032. Next event: Departure from Server 10
+
+---------No. of customers delayed: 485--------
+
+1033. Next event: Arrival of Customer 558
+1034. Next event: Arrival of Customer 559
+1035. Next event: Arrival of Customer 560
+1036. Next event: Departure from Server 10
+
+---------No. of customers delayed: 486--------
+
+1037. Next event: Departure from Server 7
+
+---------No. of customers delayed: 487--------
+
+1038. Next event: Departure from Server 10
+
+---------No. of customers delayed: 488--------
+
+1039. Next event: Departure from Server 7
+
+---------No. of customers delayed: 489--------
+
+1040. Next event: Arrival of Customer 561
+1041. Next event: Departure from Server 6
+
+---------No. of customers delayed: 490--------
+
+1042. Next event: Departure from Server 9
+
+---------No. of customers delayed: 491--------
+
+1043. Next event: Departure from Server 9
+
+---------No. of customers delayed: 492--------
+
+1044. Next event: Arrival of Customer 562
+1045. Next event: Departure from Server 9
+
+---------No. of customers delayed: 493--------
+
+1046. Next event: Arrival of Customer 563
+1047. Next event: Arrival of Customer 564
+1048. Next event: Arrival of Customer 565
+1049. Next event: Arrival of Customer 566
+1050. Next event: Departure from Server 9
+
+---------No. of customers delayed: 494--------
+
+1051. Next event: Arrival of Customer 567
+1052. Next event: Arrival of Customer 568
+1053. Next event: Arrival of Customer 569
+1054. Next event: Arrival of Customer 570
+1055. Next event: Arrival of Customer 571
+1056. Next event: Arrival of Customer 572
+1057. Next event: Departure from Server 7
+
+---------No. of customers delayed: 495--------
+
+1058. Next event: Arrival of Customer 573
+1059. Next event: Arrival of Customer 574
+1060. Next event: Arrival of Customer 575
+1061. Next event: Arrival of Customer 576
+1062. Next event: Arrival of Customer 577
+1063. Next event: Arrival of Customer 578
+1064. Next event: Arrival of Customer 579
+1065. Next event: Arrival of Customer 580
+1066. Next event: Arrival of Customer 581
+1067. Next event: Arrival of Customer 582
+1068. Next event: Arrival of Customer 583
+1069. Next event: Arrival of Customer 584
+1070. Next event: Arrival of Customer 585
+1071. Next event: Arrival of Customer 586
+1072. Next event: Arrival of Customer 587
+1073. Next event: Arrival of Customer 588
+1074. Next event: Arrival of Customer 589
+1075. Next event: Arrival of Customer 590
+1076. Next event: Arrival of Customer 591
+1077. Next event: Departure from Server 10
+
+---------No. of customers delayed: 496--------
+
+1078. Next event: Arrival of Customer 592
+1079. Next event: Arrival of Customer 593
+1080. Next event: Departure from Server 9
+
+---------No. of customers delayed: 497--------
+
+1081. Next event: Departure from Server 10
+
+---------No. of customers delayed: 498--------
+
+1082. Next event: Arrival of Customer 594
+1083. Next event: Arrival of Customer 595
+1084. Next event: Departure from Server 6
+
+---------No. of customers delayed: 499--------
+
+1085. Next event: Arrival of Customer 596
+1086. Next event: Departure from Server 6
+
+---------No. of customers delayed: 500--------
+
+1087. Next event: Arrival of Customer 597
+1088. Next event: Arrival of Customer 598
+1089. Next event: Departure from Server 10
+
+---------No. of customers delayed: 501--------
+
+1090. Next event: Arrival of Customer 599
+1091. Next event: Arrival of Customer 600
+1092. Next event: Arrival of Customer 601
+1093. Next event: Arrival of Customer 602
+1094. Next event: Arrival of Customer 603
+1095. Next event: Departure from Server 9
+
+---------No. of customers delayed: 502--------
+
+1096. Next event: Departure from Server 10
+
+---------No. of customers delayed: 503--------
+
+1097. Next event: Arrival of Customer 604
+1098. Next event: Departure from Server 7
+
+---------No. of customers delayed: 504--------
+
+1099. Next event: Departure from Server 9
+
+---------No. of customers delayed: 505--------
+
+1100. Next event: Departure from Server 10
+
+---------No. of customers delayed: 506--------
+
+1101. Next event: Arrival of Customer 605
+1102. Next event: Departure from Server 7
+
+---------No. of customers delayed: 507--------
+
+1103. Next event: Arrival of Customer 606
+1104. Next event: Arrival of Customer 607
+1105. Next event: Arrival of Customer 608
+1106. Next event: Arrival of Customer 609
+1107. Next event: Departure from Server 6
+
+---------No. of customers delayed: 508--------
+
+1108. Next event: Departure from Server 9
+
+---------No. of customers delayed: 509--------
+
+1109. Next event: Arrival of Customer 610
+1110. Next event: Arrival of Customer 611
+1111. Next event: Departure from Server 10
+
+---------No. of customers delayed: 510--------
+
+1112. Next event: Departure from Server 8
+
+---------No. of customers delayed: 511--------
+
+1113. Next event: Departure from Server 9
+
+---------No. of customers delayed: 512--------
+
+1114. Next event: Departure from Server 9
+
+---------No. of customers delayed: 513--------
+
+1115. Next event: Departure from Server 7
+
+---------No. of customers delayed: 514--------
+
+1116. Next event: Arrival of Customer 612
+1117. Next event: Departure from Server 9
+
+---------No. of customers delayed: 515--------
+
+1118. Next event: Departure from Server 6
+
+---------No. of customers delayed: 516--------
+
+1119. Next event: Arrival of Customer 613
+1120. Next event: Departure from Server 6
+
+---------No. of customers delayed: 517--------
+
+1121. Next event: Arrival of Customer 614
+1122. Next event: Arrival of Customer 615
+1123. Next event: Departure from Server 9
+
+---------No. of customers delayed: 518--------
+
+1124. Next event: Arrival of Customer 616
+1125. Next event: Arrival of Customer 617
+1126. Next event: Departure from Server 6
+
+---------No. of customers delayed: 519--------
+
+1127. Next event: Departure from Server 8
+
+---------No. of customers delayed: 520--------
+
+1128. Next event: Departure from Server 9
+
+---------No. of customers delayed: 521--------
+
+1129. Next event: Departure from Server 10
+
+---------No. of customers delayed: 522--------
+
+1130. Next event: Departure from Server 7
+
+---------No. of customers delayed: 523--------
+
+1131. Next event: Arrival of Customer 618
+1132. Next event: Departure from Server 8
+
+---------No. of customers delayed: 524--------
+
+1133. Next event: Arrival of Customer 619
+1134. Next event: Arrival of Customer 620
+1135. Next event: Departure from Server 6
+
+---------No. of customers delayed: 525--------
+
+1136. Next event: Arrival of Customer 621
+1137. Next event: Arrival of Customer 622
+1138. Next event: Arrival of Customer 623
+1139. Next event: Arrival of Customer 624
+1140. Next event: Departure from Server 10
+
+---------No. of customers delayed: 526--------
+
+1141. Next event: Arrival of Customer 625
+1142. Next event: Arrival of Customer 626
+1143. Next event: Departure from Server 8
+
+---------No. of customers delayed: 527--------
+
+1144. Next event: Arrival of Customer 627
+1145. Next event: Departure from Server 7
+
+---------No. of customers delayed: 528--------
+
+1146. Next event: Departure from Server 10
+
+---------No. of customers delayed: 529--------
+
+1147. Next event: Arrival of Customer 628
+1148. Next event: Departure from Server 8
+
+---------No. of customers delayed: 530--------
+
+1149. Next event: Departure from Server 10
+
+---------No. of customers delayed: 531--------
+
+1150. Next event: Arrival of Customer 629
+1151. Next event: Departure from Server 6
+
+---------No. of customers delayed: 532--------
+
+1152. Next event: Departure from Server 8
+
+---------No. of customers delayed: 533--------
+
+1153. Next event: Departure from Server 9
+
+---------No. of customers delayed: 534--------
+
+1154. Next event: Arrival of Customer 630
+1155. Next event: Departure from Server 10
+
+---------No. of customers delayed: 535--------
+
+1156. Next event: Arrival of Customer 631
+1157. Next event: Arrival of Customer 632
+1158. Next event: Arrival of Customer 633
+1159. Next event: Arrival of Customer 634
+1160. Next event: Arrival of Customer 635
+1161. Next event: Arrival of Customer 636
+1162. Next event: Arrival of Customer 637
+1163. Next event: Departure from Server 10
+
+---------No. of customers delayed: 536--------
+
+1164. Next event: Arrival of Customer 638
+1165. Next event: Departure from Server 7
+
+---------No. of customers delayed: 537--------
+
+1166. Next event: Departure from Server 8
+
+---------No. of customers delayed: 538--------
+
+1167. Next event: Arrival of Customer 639
+1168. Next event: Departure from Server 9
+
+---------No. of customers delayed: 539--------
+
+1169. Next event: Departure from Server 6
+
+---------No. of customers delayed: 540--------
+
+1170. Next event: Arrival of Customer 640
+1171. Next event: Departure from Server 9
+
+---------No. of customers delayed: 541--------
+
+1172. Next event: Departure from Server 8
+
+---------No. of customers delayed: 542--------
+
+1173. Next event: Departure from Server 7
+
+---------No. of customers delayed: 543--------
+
+1174. Next event: Arrival of Customer 641
+1175. Next event: Arrival of Customer 642
+1176. Next event: Arrival of Customer 643
+1177. Next event: Departure from Server 7
+
+---------No. of customers delayed: 544--------
+
+1178. Next event: Arrival of Customer 644
+1179. Next event: Departure from Server 7
+
+---------No. of customers delayed: 545--------
+
+1180. Next event: Departure from Server 6
+
+---------No. of customers delayed: 546--------
+
+1181. Next event: Departure from Server 7
+
+---------No. of customers delayed: 547--------
+
+1182. Next event: Departure from Server 8
+
+---------No. of customers delayed: 548--------
+
+1183. Next event: Departure from Server 8
+
+---------No. of customers delayed: 549--------
+
+1184. Next event: Arrival of Customer 645
+1185. Next event: Arrival of Customer 646
+1186. Next event: Arrival of Customer 647
+1187. Next event: Departure from Server 10
+
+---------No. of customers delayed: 550--------
+
+1188. Next event: Departure from Server 7
+
+---------No. of customers delayed: 551--------
+
+1189. Next event: Departure from Server 8
+
+---------No. of customers delayed: 552--------
+
+1190. Next event: Departure from Server 6
+
+---------No. of customers delayed: 553--------
+
+1191. Next event: Departure from Server 9
+
+---------No. of customers delayed: 554--------
+
+1192. Next event: Arrival of Customer 648
+1193. Next event: Departure from Server 6
+
+---------No. of customers delayed: 555--------
+
+1194. Next event: Departure from Server 7
+
+---------No. of customers delayed: 556--------
+
+1195. Next event: Arrival of Customer 649
+1196. Next event: Departure from Server 6
+
+---------No. of customers delayed: 557--------
+
+1197. Next event: Arrival of Customer 650
+1198. Next event: Arrival of Customer 651
+1199. Next event: Departure from Server 9
+
+---------No. of customers delayed: 558--------
+
+1200. Next event: Arrival of Customer 652
+1201. Next event: Arrival of Customer 653
+1202. Next event: Departure from Server 10
+
+---------No. of customers delayed: 559--------
+
+1203. Next event: Departure from Server 8
+
+---------No. of customers delayed: 560--------
+
+1204. Next event: Departure from Server 6
+
+---------No. of customers delayed: 561--------
+
+1205. Next event: Departure from Server 10
+
+---------No. of customers delayed: 562--------
+
+1206. Next event: Arrival of Customer 654
+1207. Next event: Arrival of Customer 655
+1208. Next event: Departure from Server 6
+
+---------No. of customers delayed: 563--------
+
+1209. Next event: Arrival of Customer 656
+1210. Next event: Arrival of Customer 657
+1211. Next event: Departure from Server 6
+
+---------No. of customers delayed: 564--------
+
+1212. Next event: Arrival of Customer 658
+1213. Next event: Departure from Server 10
+
+---------No. of customers delayed: 565--------
+
+1214. Next event: Arrival of Customer 659
+1215. Next event: Departure from Server 10
+
+---------No. of customers delayed: 566--------
+
+1216. Next event: Departure from Server 6
+
+---------No. of customers delayed: 567--------
+
+1217. Next event: Arrival of Customer 660
+1218. Next event: Arrival of Customer 661
+1219. Next event: Departure from Server 8
+
+---------No. of customers delayed: 568--------
+
+1220. Next event: Arrival of Customer 662
+1221. Next event: Departure from Server 7
+
+---------No. of customers delayed: 569--------
+
+1222. Next event: Arrival of Customer 663
+1223. Next event: Arrival of Customer 664
+1224. Next event: Departure from Server 8
+
+---------No. of customers delayed: 570--------
+
+1225. Next event: Arrival of Customer 665
+1226. Next event: Arrival of Customer 666
+1227. Next event: Departure from Server 10
+
+---------No. of customers delayed: 571--------
+
+1228. Next event: Arrival of Customer 667
+1229. Next event: Departure from Server 7
+
+---------No. of customers delayed: 572--------
+
+1230. Next event: Departure from Server 7
+
+---------No. of customers delayed: 573--------
+
+1231. Next event: Departure from Server 9
+
+---------No. of customers delayed: 574--------
+
+1232. Next event: Departure from Server 6
+
+---------No. of customers delayed: 575--------
+
+1233. Next event: Arrival of Customer 668
+1234. Next event: Departure from Server 7
+
+---------No. of customers delayed: 576--------
+
+1235. Next event: Arrival of Customer 669
+1236. Next event: Arrival of Customer 670
+1237. Next event: Departure from Server 8
+
+---------No. of customers delayed: 577--------
+
+1238. Next event: Departure from Server 7
+
+---------No. of customers delayed: 578--------
+
+1239. Next event: Arrival of Customer 671
+1240. Next event: Arrival of Customer 672
+1241. Next event: Departure from Server 6
+
+---------No. of customers delayed: 579--------
+
+1242. Next event: Departure from Server 7
+
+---------No. of customers delayed: 580--------
+
+1243. Next event: Arrival of Customer 673
+1244. Next event: Arrival of Customer 674
+1245. Next event: Departure from Server 9
+
+---------No. of customers delayed: 581--------
+
+1246. Next event: Departure from Server 10
+
+---------No. of customers delayed: 582--------
+
+1247. Next event: Arrival of Customer 675
+1248. Next event: Arrival of Customer 676
+1249. Next event: Arrival of Customer 677
+1250. Next event: Departure from Server 9
+
+---------No. of customers delayed: 583--------
+
+1251. Next event: Arrival of Customer 678
+1252. Next event: Departure from Server 10
+
+---------No. of customers delayed: 584--------
+
+1253. Next event: Arrival of Customer 679
+1254. Next event: Departure from Server 6
+
+---------No. of customers delayed: 585--------
+
+1255. Next event: Departure from Server 9
+
+---------No. of customers delayed: 586--------
+
+1256. Next event: Arrival of Customer 680
+1257. Next event: Departure from Server 6
+
+---------No. of customers delayed: 587--------
+
+1258. Next event: Departure from Server 7
+
+---------No. of customers delayed: 588--------
+
+1259. Next event: Departure from Server 7
+
+---------No. of customers delayed: 589--------
+
+1260. Next event: Arrival of Customer 681
+1261. Next event: Departure from Server 8
+
+---------No. of customers delayed: 590--------
+
+1262. Next event: Arrival of Customer 682
+1263. Next event: Arrival of Customer 683
+1264. Next event: Arrival of Customer 684
+1265. Next event: Arrival of Customer 685
+1266. Next event: Departure from Server 8
+
+---------No. of customers delayed: 591--------
+
+1267. Next event: Departure from Server 9
+
+---------No. of customers delayed: 592--------
+
+1268. Next event: Arrival of Customer 686
+1269. Next event: Arrival of Customer 687
+1270. Next event: Arrival of Customer 688
+1271. Next event: Arrival of Customer 689
+1272. Next event: Departure from Server 10
+
+---------No. of customers delayed: 593--------
+
+1273. Next event: Departure from Server 7
+
+---------No. of customers delayed: 594--------
+
+1274. Next event: Arrival of Customer 690
+1275. Next event: Departure from Server 10
+
+---------No. of customers delayed: 595--------
+
+1276. Next event: Arrival of Customer 691
+1277. Next event: Departure from Server 9
+
+---------No. of customers delayed: 596--------
+
+1278. Next event: Departure from Server 7
+
+---------No. of customers delayed: 597--------
+
+1279. Next event: Departure from Server 6
+
+---------No. of customers delayed: 598--------
+
+1280. Next event: Arrival of Customer 692
+1281. Next event: Departure from Server 8
+
+---------No. of customers delayed: 599--------
+
+1282. Next event: Departure from Server 10
+
+---------No. of customers delayed: 600--------
+
+1283. Next event: Arrival of Customer 693
+1284. Next event: Departure from Server 9
+
+---------No. of customers delayed: 601--------
+
+1285. Next event: Arrival of Customer 694
+1286. Next event: Arrival of Customer 695
+1287. Next event: Arrival of Customer 696
+1288. Next event: Arrival of Customer 697
+1289. Next event: Arrival of Customer 698
+1290. Next event: Arrival of Customer 699
+1291. Next event: Arrival of Customer 700
+1292. Next event: Departure from Server 7
+
+---------No. of customers delayed: 602--------
+
+1293. Next event: Arrival of Customer 701
+1294. Next event: Arrival of Customer 702
+1295. Next event: Departure from Server 10
+
+---------No. of customers delayed: 603--------
+
+1296. Next event: Departure from Server 7
+
+---------No. of customers delayed: 604--------
+
+1297. Next event: Departure from Server 7
+
+---------No. of customers delayed: 605--------
+
+1298. Next event: Departure from Server 10
+
+---------No. of customers delayed: 606--------
+
+1299. Next event: Departure from Server 7
+
+---------No. of customers delayed: 607--------
+
+1300. Next event: Departure from Server 7
+
+---------No. of customers delayed: 608--------
+
+1301. Next event: Departure from Server 6
+
+---------No. of customers delayed: 609--------
+
+1302. Next event: Arrival of Customer 703
+1303. Next event: Arrival of Customer 704
+1304. Next event: Arrival of Customer 705
+1305. Next event: Departure from Server 10
+
+---------No. of customers delayed: 610--------
+
+1306. Next event: Arrival of Customer 706
+1307. Next event: Departure from Server 9
+
+---------No. of customers delayed: 611--------
+
+1308. Next event: Departure from Server 6
+
+---------No. of customers delayed: 612--------
+
+1309. Next event: Departure from Server 10
+
+---------No. of customers delayed: 613--------
+
+1310. Next event: Arrival of Customer 707
+1311. Next event: Arrival of Customer 708
+1312. Next event: Arrival of Customer 709
+1313. Next event: Arrival of Customer 710
+1314. Next event: Arrival of Customer 711
+1315. Next event: Arrival of Customer 712
+1316. Next event: Departure from Server 8
+
+---------No. of customers delayed: 614--------
+
+1317. Next event: Departure from Server 6
+
+---------No. of customers delayed: 615--------
+
+1318. Next event: Arrival of Customer 713
+1319. Next event: Arrival of Customer 714
+1320. Next event: Arrival of Customer 715
+1321. Next event: Departure from Server 9
+
+---------No. of customers delayed: 616--------
+
+1322. Next event: Arrival of Customer 716
+1323. Next event: Arrival of Customer 717
+1324. Next event: Departure from Server 7
+
+---------No. of customers delayed: 617--------
+
+1325. Next event: Departure from Server 7
+
+---------No. of customers delayed: 618--------
+
+1326. Next event: Departure from Server 7
+
+---------No. of customers delayed: 619--------
+
+1327. Next event: Departure from Server 9
+
+---------No. of customers delayed: 620--------
+
+1328. Next event: Departure from Server 8
+
+---------No. of customers delayed: 621--------
+
+1329. Next event: Departure from Server 7
+
+---------No. of customers delayed: 622--------
+
+1330. Next event: Departure from Server 8
+
+---------No. of customers delayed: 623--------
+
+1331. Next event: Departure from Server 6
+
+---------No. of customers delayed: 624--------
+
+1332. Next event: Departure from Server 10
+
+---------No. of customers delayed: 625--------
+
+1333. Next event: Departure from Server 8
+
+---------No. of customers delayed: 626--------
+
+1334. Next event: Arrival of Customer 718
+1335. Next event: Departure from Server 7
+
+---------No. of customers delayed: 627--------
+
+1336. Next event: Departure from Server 7
+
+---------No. of customers delayed: 628--------
+
+1337. Next event: Departure from Server 8
+
+---------No. of customers delayed: 629--------
+
+1338. Next event: Arrival of Customer 719
+1339. Next event: Arrival of Customer 720
+1340. Next event: Departure from Server 6
+
+---------No. of customers delayed: 630--------
+
+1341. Next event: Arrival of Customer 721
+1342. Next event: Departure from Server 10
+
+---------No. of customers delayed: 631--------
+
+1343. Next event: Departure from Server 6
+
+---------No. of customers delayed: 632--------
+
+1344. Next event: Departure from Server 8
+
+---------No. of customers delayed: 633--------
+
+1345. Next event: Arrival of Customer 722
+1346. Next event: Arrival of Customer 723
+1347. Next event: Departure from Server 10
+
+---------No. of customers delayed: 634--------
+
+1348. Next event: Arrival of Customer 724
+1349. Next event: Arrival of Customer 725
+1350. Next event: Arrival of Customer 726
+1351. Next event: Departure from Server 8
+
+---------No. of customers delayed: 635--------
+
+1352. Next event: Arrival of Customer 727
+1353. Next event: Arrival of Customer 728
+1354. Next event: Departure from Server 8
+
+---------No. of customers delayed: 636--------
+
+1355. Next event: Departure from Server 9
+
+---------No. of customers delayed: 637--------
+
+1356. Next event: Arrival of Customer 729
+1357. Next event: Departure from Server 10
+
+---------No. of customers delayed: 638--------
+
+1358. Next event: Arrival of Customer 730
+1359. Next event: Departure from Server 9
+
+---------No. of customers delayed: 639--------
+
+1360. Next event: Arrival of Customer 731
+1361. Next event: Arrival of Customer 732
+1362. Next event: Arrival of Customer 733
+1363. Next event: Arrival of Customer 734
+1364. Next event: Departure from Server 10
+
+---------No. of customers delayed: 640--------
+
+1365. Next event: Departure from Server 10
+
+---------No. of customers delayed: 641--------
+
+1366. Next event: Departure from Server 9
+
+---------No. of customers delayed: 642--------
+
+1367. Next event: Arrival of Customer 735
+1368. Next event: Departure from Server 8
+
+---------No. of customers delayed: 643--------
+
+1369. Next event: Departure from Server 10
+
+---------No. of customers delayed: 644--------
+
+1370. Next event: Arrival of Customer 736
+1371. Next event: Arrival of Customer 737
+1372. Next event: Departure from Server 9
+
+---------No. of customers delayed: 645--------
+
+1373. Next event: Arrival of Customer 738
+1374. Next event: Departure from Server 6
+
+---------No. of customers delayed: 646--------
+
+1375. Next event: Departure from Server 8
+
+---------No. of customers delayed: 647--------
+
+1376. Next event: Departure from Server 8
+
+---------No. of customers delayed: 648--------
+
+1377. Next event: Arrival of Customer 739
+1378. Next event: Arrival of Customer 740
+1379. Next event: Departure from Server 8
+
+---------No. of customers delayed: 649--------
+
+1380. Next event: Departure from Server 8
+
+---------No. of customers delayed: 650--------
+
+1381. Next event: Arrival of Customer 741
+1382. Next event: Arrival of Customer 742
+1383. Next event: Arrival of Customer 743
+1384. Next event: Arrival of Customer 744
+1385. Next event: Arrival of Customer 745
+1386. Next event: Arrival of Customer 746
+1387. Next event: Arrival of Customer 747
+1388. Next event: Departure from Server 8
+
+---------No. of customers delayed: 651--------
+
+1389. Next event: Departure from Server 10
+
+---------No. of customers delayed: 652--------
+
+1390. Next event: Departure from Server 6
+
+---------No. of customers delayed: 653--------
+
+1391. Next event: Arrival of Customer 748
+1392. Next event: Departure from Server 6
+
+---------No. of customers delayed: 654--------
+
+1393. Next event: Arrival of Customer 749
+1394. Next event: Arrival of Customer 750
+1395. Next event: Departure from Server 8
+
+---------No. of customers delayed: 655--------
+
+1396. Next event: Departure from Server 7
+
+---------No. of customers delayed: 656--------
+
+1397. Next event: Arrival of Customer 751
+1398. Next event: Arrival of Customer 752
+1399. Next event: Departure from Server 8
+
+---------No. of customers delayed: 657--------
+
+1400. Next event: Departure from Server 7
+
+---------No. of customers delayed: 658--------
+
+1401. Next event: Departure from Server 9
+
+---------No. of customers delayed: 659--------
+
+1402. Next event: Arrival of Customer 753
+1403. Next event: Departure from Server 9
+
+---------No. of customers delayed: 660--------
+
+1404. Next event: Departure from Server 8
+
+---------No. of customers delayed: 661--------
+
+1405. Next event: Arrival of Customer 754
+1406. Next event: Departure from Server 8
+
+---------No. of customers delayed: 662--------
+
+1407. Next event: Departure from Server 8
+
+---------No. of customers delayed: 663--------
+
+1408. Next event: Departure from Server 9
+
+---------No. of customers delayed: 664--------
+
+1409. Next event: Departure from Server 7
+
+---------No. of customers delayed: 665--------
+
+1410. Next event: Arrival of Customer 755
+1411. Next event: Departure from Server 6
+
+---------No. of customers delayed: 666--------
+
+1412. Next event: Arrival of Customer 756
+1413. Next event: Departure from Server 8
+
+---------No. of customers delayed: 667--------
+
+1414. Next event: Departure from Server 10
+
+---------No. of customers delayed: 668--------
+
+1415. Next event: Arrival of Customer 757
+1416. Next event: Arrival of Customer 758
+1417. Next event: Departure from Server 6
+
+---------No. of customers delayed: 669--------
+
+1418. Next event: Arrival of Customer 759
+1419. Next event: Arrival of Customer 760
+1420. Next event: Departure from Server 8
+
+---------No. of customers delayed: 670--------
+
+1421. Next event: Arrival of Customer 761
+1422. Next event: Arrival of Customer 762
+1423. Next event: Departure from Server 6
+
+---------No. of customers delayed: 671--------
+
+1424. Next event: Departure from Server 9
+
+---------No. of customers delayed: 672--------
+
+1425. Next event: Departure from Server 7
+
+---------No. of customers delayed: 673--------
+
+1426. Next event: Departure from Server 6
+
+---------No. of customers delayed: 674--------
+
+1427. Next event: Departure from Server 10
+
+---------No. of customers delayed: 675--------
+
+1428. Next event: Departure from Server 10
+
+---------No. of customers delayed: 676--------
+
+1429. Next event: Arrival of Customer 763
+1430. Next event: Arrival of Customer 764
+1431. Next event: Arrival of Customer 765
+1432. Next event: Arrival of Customer 766
+1433. Next event: Departure from Server 7
+
+---------No. of customers delayed: 677--------
+
+1434. Next event: Departure from Server 10
+
+---------No. of customers delayed: 678--------
+
+1435. Next event: Departure from Server 10
+
+---------No. of customers delayed: 679--------
+
+1436. Next event: Departure from Server 7
+
+---------No. of customers delayed: 680--------
+
+1437. Next event: Departure from Server 7
+
+---------No. of customers delayed: 681--------
+
+1438. Next event: Arrival of Customer 767
+1439. Next event: Arrival of Customer 768
+1440. Next event: Arrival of Customer 769
+1441. Next event: Arrival of Customer 770
+1442. Next event: Departure from Server 7
+
+---------No. of customers delayed: 682--------
+
+1443. Next event: Departure from Server 10
+
+---------No. of customers delayed: 683--------
+
+1444. Next event: Arrival of Customer 771
+1445. Next event: Arrival of Customer 772
+1446. Next event: Departure from Server 6
+
+---------No. of customers delayed: 684--------
+
+1447. Next event: Arrival of Customer 773
+1448. Next event: Arrival of Customer 774
+1449. Next event: Arrival of Customer 775
+1450. Next event: Departure from Server 8
+
+---------No. of customers delayed: 685--------
+
+1451. Next event: Arrival of Customer 776
+1452. Next event: Departure from Server 9
+
+---------No. of customers delayed: 686--------
+
+1453. Next event: Arrival of Customer 777
+1454. Next event: Departure from Server 7
+
+---------No. of customers delayed: 687--------
+
+1455. Next event: Departure from Server 10
+
+---------No. of customers delayed: 688--------
+
+1456. Next event: Arrival of Customer 778
+1457. Next event: Arrival of Customer 779
+1458. Next event: Departure from Server 8
+
+---------No. of customers delayed: 689--------
+
+1459. Next event: Arrival of Customer 780
+1460. Next event: Arrival of Customer 781
+1461. Next event: Arrival of Customer 782
+1462. Next event: Arrival of Customer 783
+1463. Next event: Arrival of Customer 784
+1464. Next event: Departure from Server 9
+
+---------No. of customers delayed: 690--------
+
+1465. Next event: Departure from Server 6
+
+---------No. of customers delayed: 691--------
+
+1466. Next event: Departure from Server 7
+
+---------No. of customers delayed: 692--------
+
+1467. Next event: Departure from Server 7
+
+---------No. of customers delayed: 693--------
+
+1468. Next event: Departure from Server 6
+
+---------No. of customers delayed: 694--------
+
+1469. Next event: Arrival of Customer 785
+1470. Next event: Arrival of Customer 786
+1471. Next event: Arrival of Customer 787
+1472. Next event: Arrival of Customer 788
+1473. Next event: Departure from Server 9
+
+---------No. of customers delayed: 695--------
+
+1474. Next event: Departure from Server 7
+
+---------No. of customers delayed: 696--------
+
+1475. Next event: Arrival of Customer 789
+1476. Next event: Departure from Server 10
+
+---------No. of customers delayed: 697--------
+
+1477. Next event: Arrival of Customer 790
+1478. Next event: Departure from Server 9
+
+---------No. of customers delayed: 698--------
+
+1479. Next event: Arrival of Customer 791
+1480. Next event: Departure from Server 8
+
+---------No. of customers delayed: 699--------
+
+1481. Next event: Departure from Server 6
+
+---------No. of customers delayed: 700--------
+
+1482. Next event: Departure from Server 8
+
+---------No. of customers delayed: 701--------
+
+1483. Next event: Departure from Server 7
+
+---------No. of customers delayed: 702--------
+
+1484. Next event: Arrival of Customer 792
+1485. Next event: Arrival of Customer 793
+1486. Next event: Arrival of Customer 794
+1487. Next event: Departure from Server 8
+
+---------No. of customers delayed: 703--------
+
+1488. Next event: Departure from Server 6
+
+---------No. of customers delayed: 704--------
+
+1489. Next event: Arrival of Customer 795
+1490. Next event: Departure from Server 9
+
+---------No. of customers delayed: 705--------
+
+1491. Next event: Arrival of Customer 796
+1492. Next event: Departure from Server 6
+
+---------No. of customers delayed: 706--------
+
+1493. Next event: Arrival of Customer 797
+1494. Next event: Arrival of Customer 798
+1495. Next event: Departure from Server 9
+
+---------No. of customers delayed: 707--------
+
+1496. Next event: Arrival of Customer 799
+1497. Next event: Departure from Server 6
+
+---------No. of customers delayed: 708--------
+
+1498. Next event: Arrival of Customer 800
+1499. Next event: Arrival of Customer 801
+1500. Next event: Departure from Server 6
+
+---------No. of customers delayed: 709--------
+
+1501. Next event: Departure from Server 6
+
+---------No. of customers delayed: 710--------
+
+1502. Next event: Arrival of Customer 802
+1503. Next event: Arrival of Customer 803
+1504. Next event: Arrival of Customer 804
+1505. Next event: Departure from Server 6
+
+---------No. of customers delayed: 711--------
+
+1506. Next event: Arrival of Customer 805
+1507. Next event: Arrival of Customer 806
+1508. Next event: Departure from Server 10
+
+---------No. of customers delayed: 712--------
+
+1509. Next event: Arrival of Customer 807
+1510. Next event: Departure from Server 9
+
+---------No. of customers delayed: 713--------
+
+1511. Next event: Arrival of Customer 808
+1512. Next event: Departure from Server 8
+
+---------No. of customers delayed: 714--------
+
+1513. Next event: Departure from Server 8
+
+---------No. of customers delayed: 715--------
+
+1514. Next event: Departure from Server 9
+
+---------No. of customers delayed: 716--------
+
+1515. Next event: Departure from Server 9
+
+---------No. of customers delayed: 717--------
+
+1516. Next event: Departure from Server 8
+
+---------No. of customers delayed: 718--------
+
+1517. Next event: Departure from Server 7
+
+---------No. of customers delayed: 719--------
+
+1518. Next event: Arrival of Customer 809
+1519. Next event: Arrival of Customer 810
+1520. Next event: Arrival of Customer 811
+1521. Next event: Arrival of Customer 812
+1522. Next event: Departure from Server 10
+
+---------No. of customers delayed: 720--------
+
+1523. Next event: Departure from Server 10
+
+---------No. of customers delayed: 721--------
+
+1524. Next event: Arrival of Customer 813
+1525. Next event: Departure from Server 8
+
+---------No. of customers delayed: 722--------
+
+1526. Next event: Departure from Server 10
+
+---------No. of customers delayed: 723--------
+
+1527. Next event: Arrival of Customer 814
+1528. Next event: Departure from Server 9
+
+---------No. of customers delayed: 724--------
+
+1529. Next event: Departure from Server 10
+
+---------No. of customers delayed: 725--------
+
+1530. Next event: Arrival of Customer 815
+1531. Next event: Arrival of Customer 816
+1532. Next event: Arrival of Customer 817
+1533. Next event: Arrival of Customer 818
+1534. Next event: Arrival of Customer 819
+1535. Next event: Departure from Server 10
+
+---------No. of customers delayed: 726--------
+
+1536. Next event: Departure from Server 9
+
+---------No. of customers delayed: 727--------
+
+1537. Next event: Departure from Server 9
+
+---------No. of customers delayed: 728--------
+
+1538. Next event: Arrival of Customer 820
+1539. Next event: Arrival of Customer 821
+1540. Next event: Departure from Server 6
+
+---------No. of customers delayed: 729--------
+
+1541. Next event: Arrival of Customer 822
+1542. Next event: Departure from Server 8
+
+---------No. of customers delayed: 730--------
+
+1543. Next event: Arrival of Customer 823
+1544. Next event: Arrival of Customer 824
+1545. Next event: Arrival of Customer 825
+1546. Next event: Departure from Server 9
+
+---------No. of customers delayed: 731--------
+
+1547. Next event: Departure from Server 10
+
+---------No. of customers delayed: 732--------
+
+1548. Next event: Arrival of Customer 826
+1549. Next event: Arrival of Customer 827
+1550. Next event: Departure from Server 9
+
+---------No. of customers delayed: 733--------
+
+1551. Next event: Arrival of Customer 828
+1552. Next event: Arrival of Customer 829
+1553. Next event: Departure from Server 7
+
+---------No. of customers delayed: 734--------
+
+1554. Next event: Arrival of Customer 830
+1555. Next event: Departure from Server 10
+
+---------No. of customers delayed: 735--------
+
+1556. Next event: Departure from Server 9
+
+---------No. of customers delayed: 736--------
+
+1557. Next event: Departure from Server 8
+
+---------No. of customers delayed: 737--------
+
+1558. Next event: Departure from Server 10
+
+---------No. of customers delayed: 738--------
+
+1559. Next event: Arrival of Customer 831
+1560. Next event: Arrival of Customer 832
+1561. Next event: Departure from Server 7
+
+---------No. of customers delayed: 739--------
+
+1562. Next event: Arrival of Customer 833
+1563. Next event: Arrival of Customer 834
+1564. Next event: Arrival of Customer 835
+1565. Next event: Departure from Server 10
+
+---------No. of customers delayed: 740--------
+
+1566. Next event: Arrival of Customer 836
+1567. Next event: Arrival of Customer 837
+1568. Next event: Departure from Server 9
+
+---------No. of customers delayed: 741--------
+
+1569. Next event: Departure from Server 9
+
+---------No. of customers delayed: 742--------
+
+1570. Next event: Departure from Server 10
+
+---------No. of customers delayed: 743--------
+
+1571. Next event: Departure from Server 8
+
+---------No. of customers delayed: 744--------
+
+1572. Next event: Departure from Server 6
+
+---------No. of customers delayed: 745--------
+
+1573. Next event: Departure from Server 9
+
+---------No. of customers delayed: 746--------
+
+1574. Next event: Departure from Server 6
+
+---------No. of customers delayed: 747--------
+
+1575. Next event: Departure from Server 9
+
+---------No. of customers delayed: 748--------
+
+1576. Next event: Departure from Server 9
+
+---------No. of customers delayed: 749--------
+
+1577. Next event: Departure from Server 10
+
+---------No. of customers delayed: 750--------
+
+1578. Next event: Arrival of Customer 838
+1579. Next event: Arrival of Customer 839
+1580. Next event: Departure from Server 10
+
+---------No. of customers delayed: 751--------
+
+1581. Next event: Departure from Server 7
+
+---------No. of customers delayed: 752--------
+
+1582. Next event: Departure from Server 6
+
+---------No. of customers delayed: 753--------
+
+1583. Next event: Departure from Server 7
+
+---------No. of customers delayed: 754--------
+
+1584. Next event: Departure from Server 8
+
+---------No. of customers delayed: 755--------
+
+1585. Next event: Arrival of Customer 840
+1586. Next event: Departure from Server 8
+
+---------No. of customers delayed: 756--------
+
+1587. Next event: Arrival of Customer 841
+1588. Next event: Departure from Server 10
+
+---------No. of customers delayed: 757--------
+
+1589. Next event: Arrival of Customer 842
+1590. Next event: Arrival of Customer 843
+1591. Next event: Arrival of Customer 844
+1592. Next event: Departure from Server 7
+
+---------No. of customers delayed: 758--------
+
+1593. Next event: Departure from Server 10
+
+---------No. of customers delayed: 759--------
+
+1594. Next event: Arrival of Customer 845
+1595. Next event: Departure from Server 9
+
+---------No. of customers delayed: 760--------
+
+1596. Next event: Departure from Server 8
+
+---------No. of customers delayed: 761--------
+
+1597. Next event: Departure from Server 7
+
+---------No. of customers delayed: 762--------
+
+1598. Next event: Arrival of Customer 846
+1599. Next event: Arrival of Customer 847
+1600. Next event: Arrival of Customer 848
+1601. Next event: Arrival of Customer 849
+1602. Next event: Arrival of Customer 850
+1603. Next event: Arrival of Customer 851
+1604. Next event: Departure from Server 6
+
+---------No. of customers delayed: 763--------
+
+1605. Next event: Arrival of Customer 852
+1606. Next event: Arrival of Customer 853
+1607. Next event: Arrival of Customer 854
+1608. Next event: Arrival of Customer 855
+1609. Next event: Departure from Server 9
+
+---------No. of customers delayed: 764--------
+
+1610. Next event: Departure from Server 6
+
+---------No. of customers delayed: 765--------
+
+1611. Next event: Arrival of Customer 856
+1612. Next event: Arrival of Customer 857
+1613. Next event: Arrival of Customer 858
+1614. Next event: Departure from Server 8
+
+---------No. of customers delayed: 766--------
+
+1615. Next event: Arrival of Customer 859
+1616. Next event: Departure from Server 6
+
+---------No. of customers delayed: 767--------
+
+1617. Next event: Arrival of Customer 860
+1618. Next event: Arrival of Customer 861
+1619. Next event: Departure from Server 6
+
+---------No. of customers delayed: 768--------
+
+1620. Next event: Arrival of Customer 862
+1621. Next event: Arrival of Customer 863
+1622. Next event: Arrival of Customer 864
+1623. Next event: Departure from Server 7
+
+---------No. of customers delayed: 769--------
+
+1624. Next event: Departure from Server 9
+
+---------No. of customers delayed: 770--------
+
+1625. Next event: Arrival of Customer 865
+1626. Next event: Arrival of Customer 866
+1627. Next event: Arrival of Customer 867
+1628. Next event: Departure from Server 7
+
+---------No. of customers delayed: 771--------
+
+1629. Next event: Arrival of Customer 868
+1630. Next event: Departure from Server 9
+
+---------No. of customers delayed: 772--------
+
+1631. Next event: Departure from Server 8
+
+---------No. of customers delayed: 773--------
+
+1632. Next event: Departure from Server 7
+
+---------No. of customers delayed: 774--------
+
+1633. Next event: Departure from Server 8
+
+---------No. of customers delayed: 775--------
+
+1634. Next event: Departure from Server 10
+
+---------No. of customers delayed: 776--------
+
+1635. Next event: Arrival of Customer 869
+1636. Next event: Arrival of Customer 870
+1637. Next event: Departure from Server 9
+
+---------No. of customers delayed: 777--------
+
+1638. Next event: Arrival of Customer 871
+1639. Next event: Arrival of Customer 872
+1640. Next event: Departure from Server 10
+
+---------No. of customers delayed: 778--------
+
+1641. Next event: Arrival of Customer 873
+1642. Next event: Departure from Server 6
+
+---------No. of customers delayed: 779--------
+
+1643. Next event: Departure from Server 7
+
+---------No. of customers delayed: 780--------
+
+1644. Next event: Departure from Server 8
+
+---------No. of customers delayed: 781--------
+
+1645. Next event: Arrival of Customer 874
+1646. Next event: Departure from Server 6
+
+---------No. of customers delayed: 782--------
+
+1647. Next event: Arrival of Customer 875
+1648. Next event: Departure from Server 10
+
+---------No. of customers delayed: 783--------
+
+1649. Next event: Departure from Server 9
+
+---------No. of customers delayed: 784--------
+
+1650. Next event: Departure from Server 8
+
+---------No. of customers delayed: 785--------
+
+1651. Next event: Departure from Server 8
+
+---------No. of customers delayed: 786--------
+
+1652. Next event: Arrival of Customer 876
+1653. Next event: Departure from Server 9
+
+---------No. of customers delayed: 787--------
+
+1654. Next event: Departure from Server 10
+
+---------No. of customers delayed: 788--------
+
+1655. Next event: Arrival of Customer 877
+1656. Next event: Departure from Server 8
+
+---------No. of customers delayed: 789--------
+
+1657. Next event: Arrival of Customer 878
+1658. Next event: Departure from Server 9
+
+---------No. of customers delayed: 790--------
+
+1659. Next event: Departure from Server 10
+
+---------No. of customers delayed: 791--------
+
+1660. Next event: Arrival of Customer 879
+1661. Next event: Arrival of Customer 880
+1662. Next event: Departure from Server 8
+
+---------No. of customers delayed: 792--------
+
+1663. Next event: Departure from Server 8
+
+---------No. of customers delayed: 793--------
+
+1664. Next event: Departure from Server 8
+
+---------No. of customers delayed: 794--------
+
+1665. Next event: Arrival of Customer 881
+1666. Next event: Departure from Server 7
+
+---------No. of customers delayed: 795--------
+
+1667. Next event: Arrival of Customer 882
+1668. Next event: Departure from Server 9
+
+---------No. of customers delayed: 796--------
+
+1669. Next event: Departure from Server 8
+
+---------No. of customers delayed: 797--------
+
+1670. Next event: Departure from Server 7
+
+---------No. of customers delayed: 798--------
+
+1671. Next event: Departure from Server 9
+
+---------No. of customers delayed: 799--------
+
+1672. Next event: Departure from Server 10
+
+---------No. of customers delayed: 800--------
+
+1673. Next event: Arrival of Customer 883
+1674. Next event: Arrival of Customer 884
+1675. Next event: Departure from Server 9
+
+---------No. of customers delayed: 801--------
+
+1676. Next event: Departure from Server 10
+
+---------No. of customers delayed: 802--------
+
+1677. Next event: Arrival of Customer 885
+1678. Next event: Departure from Server 9
+
+---------No. of customers delayed: 803--------
+
+1679. Next event: Arrival of Customer 886
+1680. Next event: Departure from Server 9
+
+---------No. of customers delayed: 804--------
+
+1681. Next event: Departure from Server 8
+
+---------No. of customers delayed: 805--------
+
+1682. Next event: Departure from Server 7
+
+---------No. of customers delayed: 806--------
+
+1683. Next event: Departure from Server 7
+
+---------No. of customers delayed: 807--------
+
+1684. Next event: Arrival of Customer 887
+1685. Next event: Arrival of Customer 888
+1686. Next event: Departure from Server 7
+
+---------No. of customers delayed: 808--------
+
+1687. Next event: Arrival of Customer 889
+1688. Next event: Departure from Server 10
+
+---------No. of customers delayed: 809--------
+
+1689. Next event: Departure from Server 7
+
+---------No. of customers delayed: 810--------
+
+1690. Next event: Departure from Server 8
+
+---------No. of customers delayed: 811--------
+
+1691. Next event: Arrival of Customer 890
+1692. Next event: Departure from Server 8
+
+---------No. of customers delayed: 812--------
+
+1693. Next event: Arrival of Customer 891
+1694. Next event: Departure from Server 8
+
+---------No. of customers delayed: 813--------
+
+1695. Next event: Arrival of Customer 892
+1696. Next event: Arrival of Customer 893
+1697. Next event: Arrival of Customer 894
+1698. Next event: Arrival of Customer 895
+1699. Next event: Arrival of Customer 896
+1700. Next event: Arrival of Customer 897
+1701. Next event: Arrival of Customer 898
+1702. Next event: Departure from Server 10
+
+---------No. of customers delayed: 814--------
+
+1703. Next event: Arrival of Customer 899
+1704. Next event: Arrival of Customer 900
+1705. Next event: Arrival of Customer 901
+1706. Next event: Departure from Server 8
+
+---------No. of customers delayed: 815--------
+
+1707. Next event: Departure from Server 7
+
+---------No. of customers delayed: 816--------
+
+1708. Next event: Arrival of Customer 902
+1709. Next event: Departure from Server 6
+
+---------No. of customers delayed: 817--------
+
+1710. Next event: Departure from Server 6
+
+---------No. of customers delayed: 818--------
+
+1711. Next event: Arrival of Customer 903
+1712. Next event: Arrival of Customer 904
+1713. Next event: Arrival of Customer 905
+1714. Next event: Arrival of Customer 906
+1715. Next event: Arrival of Customer 907
+1716. Next event: Departure from Server 6
+
+---------No. of customers delayed: 819--------
+
+1717. Next event: Departure from Server 9
+
+---------No. of customers delayed: 820--------
+
+1718. Next event: Arrival of Customer 908
+1719. Next event: Departure from Server 10
+
+---------No. of customers delayed: 821--------
+
+1720. Next event: Departure from Server 8
+
+---------No. of customers delayed: 822--------
+
+1721. Next event: Departure from Server 7
+
+---------No. of customers delayed: 823--------
+
+1722. Next event: Departure from Server 10
+
+---------No. of customers delayed: 824--------
+
+1723. Next event: Arrival of Customer 909
+1724. Next event: Departure from Server 6
+
+---------No. of customers delayed: 825--------
+
+1725. Next event: Departure from Server 6
+
+---------No. of customers delayed: 826--------
+
+1726. Next event: Departure from Server 7
+
+---------No. of customers delayed: 827--------
+
+1727. Next event: Arrival of Customer 910
+1728. Next event: Departure from Server 8
+
+---------No. of customers delayed: 828--------
+
+1729. Next event: Departure from Server 10
+
+---------No. of customers delayed: 829--------
+
+1730. Next event: Arrival of Customer 911
+1731. Next event: Arrival of Customer 912
+1732. Next event: Arrival of Customer 913
+1733. Next event: Arrival of Customer 914
+1734. Next event: Arrival of Customer 915
+1735. Next event: Arrival of Customer 916
+1736. Next event: Arrival of Customer 917
+1737. Next event: Arrival of Customer 918
+1738. Next event: Departure from Server 8
+
+---------No. of customers delayed: 830--------
+
+1739. Next event: Departure from Server 10
+
+---------No. of customers delayed: 831--------
+
+1740. Next event: Arrival of Customer 919
+1741. Next event: Arrival of Customer 920
+1742. Next event: Departure from Server 6
+
+---------No. of customers delayed: 832--------
+
+1743. Next event: Arrival of Customer 921
+1744. Next event: Departure from Server 10
+
+---------No. of customers delayed: 833--------
+
+1745. Next event: Arrival of Customer 922
+1746. Next event: Departure from Server 10
+
+---------No. of customers delayed: 834--------
+
+1747. Next event: Arrival of Customer 923
+1748. Next event: Arrival of Customer 924
+1749. Next event: Arrival of Customer 925
+1750. Next event: Departure from Server 7
+
+---------No. of customers delayed: 835--------
+
+1751. Next event: Departure from Server 9
+
+---------No. of customers delayed: 836--------
+
+1752. Next event: Departure from Server 9
+
+---------No. of customers delayed: 837--------
+
+1753. Next event: Arrival of Customer 926
+1754. Next event: Departure from Server 8
+
+---------No. of customers delayed: 838--------
+
+1755. Next event: Departure from Server 10
+
+---------No. of customers delayed: 839--------
+
+1756. Next event: Departure from Server 9
+
+---------No. of customers delayed: 840--------
+
+1757. Next event: Arrival of Customer 927
+1758. Next event: Departure from Server 7
+
+---------No. of customers delayed: 841--------
+
+1759. Next event: Arrival of Customer 928
+1760. Next event: Arrival of Customer 929
+1761. Next event: Departure from Server 7
+
+---------No. of customers delayed: 842--------
+
+1762. Next event: Arrival of Customer 930
+1763. Next event: Departure from Server 7
+
+---------No. of customers delayed: 843--------
+
+1764. Next event: Departure from Server 9
+
+---------No. of customers delayed: 844--------
+
+1765. Next event: Departure from Server 9
+
+---------No. of customers delayed: 845--------
+
+1766. Next event: Arrival of Customer 931
+1767. Next event: Arrival of Customer 932
+1768. Next event: Arrival of Customer 933
+1769. Next event: Departure from Server 8
+
+---------No. of customers delayed: 846--------
+
+1770. Next event: Arrival of Customer 934
+1771. Next event: Arrival of Customer 935
+1772. Next event: Arrival of Customer 936
+1773. Next event: Departure from Server 10
+
+---------No. of customers delayed: 847--------
+
+1774. Next event: Arrival of Customer 937
+1775. Next event: Arrival of Customer 938
+1776. Next event: Arrival of Customer 939
+1777. Next event: Departure from Server 9
+
+---------No. of customers delayed: 848--------
+
+1778. Next event: Departure from Server 7
+
+---------No. of customers delayed: 849--------
+
+1779. Next event: Departure from Server 9
+
+---------No. of customers delayed: 850--------
+
+1780. Next event: Arrival of Customer 940
+1781. Next event: Arrival of Customer 941
+1782. Next event: Arrival of Customer 942
+1783. Next event: Arrival of Customer 943
+1784. Next event: Arrival of Customer 944
+1785. Next event: Arrival of Customer 945
+1786. Next event: Arrival of Customer 946
+1787. Next event: Departure from Server 7
+
+---------No. of customers delayed: 851--------
+
+1788. Next event: Arrival of Customer 947
+1789. Next event: Arrival of Customer 948
+1790. Next event: Arrival of Customer 949
+1791. Next event: Arrival of Customer 950
+1792. Next event: Arrival of Customer 951
+1793. Next event: Arrival of Customer 952
+1794. Next event: Arrival of Customer 953
+1795. Next event: Arrival of Customer 954
+1796. Next event: Departure from Server 8
+
+---------No. of customers delayed: 852--------
+
+1797. Next event: Arrival of Customer 955
+1798. Next event: Arrival of Customer 956
+1799. Next event: Arrival of Customer 957
+1800. Next event: Arrival of Customer 958
+1801. Next event: Arrival of Customer 959
+1802. Next event: Arrival of Customer 960
+1803. Next event: Departure from Server 7
+
+---------No. of customers delayed: 853--------
+
+1804. Next event: Departure from Server 10
+
+---------No. of customers delayed: 854--------
+
+1805. Next event: Departure from Server 10
+
+---------No. of customers delayed: 855--------
+
+1806. Next event: Arrival of Customer 961
+1807. Next event: Arrival of Customer 962
+1808. Next event: Departure from Server 8
+
+---------No. of customers delayed: 856--------
+
+1809. Next event: Departure from Server 6
+
+---------No. of customers delayed: 857--------
+
+1810. Next event: Departure from Server 10
+
+---------No. of customers delayed: 858--------
+
+1811. Next event: Arrival of Customer 963
+1812. Next event: Arrival of Customer 964
+1813. Next event: Departure from Server 8
+
+---------No. of customers delayed: 859--------
+
+1814. Next event: Arrival of Customer 965
+1815. Next event: Arrival of Customer 966
+1816. Next event: Departure from Server 10
+
+---------No. of customers delayed: 860--------
+
+1817. Next event: Arrival of Customer 967
+1818. Next event: Arrival of Customer 968
+1819. Next event: Departure from Server 10
+
+---------No. of customers delayed: 861--------
+
+1820. Next event: Departure from Server 8
+
+---------No. of customers delayed: 862--------
+
+1821. Next event: Departure from Server 6
+
+---------No. of customers delayed: 863--------
+
+1822. Next event: Departure from Server 10
+
+---------No. of customers delayed: 864--------
+
+1823. Next event: Arrival of Customer 969
+1824. Next event: Arrival of Customer 970
+1825. Next event: Arrival of Customer 971
+1826. Next event: Departure from Server 8
+
+---------No. of customers delayed: 865--------
+
+1827. Next event: Arrival of Customer 972
+1828. Next event: Arrival of Customer 973
+1829. Next event: Departure from Server 6
+
+---------No. of customers delayed: 866--------
+
+1830. Next event: Arrival of Customer 974
+1831. Next event: Arrival of Customer 975
+1832. Next event: Arrival of Customer 976
+1833. Next event: Arrival of Customer 977
+1834. Next event: Departure from Server 10
+
+---------No. of customers delayed: 867--------
+
+1835. Next event: Arrival of Customer 978
+1836. Next event: Departure from Server 7
+
+---------No. of customers delayed: 868--------
+
+1837. Next event: Arrival of Customer 979
+1838. Next event: Departure from Server 9
+
+---------No. of customers delayed: 869--------
+
+1839. Next event: Arrival of Customer 980
+1840. Next event: Arrival of Customer 981
+1841. Next event: Departure from Server 7
+
+---------No. of customers delayed: 870--------
+
+1842. Next event: Arrival of Customer 982
+1843. Next event: Arrival of Customer 983
+1844. Next event: Arrival of Customer 984
+1845. Next event: Arrival of Customer 985
+1846. Next event: Departure from Server 6
+
+---------No. of customers delayed: 871--------
+
+1847. Next event: Departure from Server 10
+
+---------No. of customers delayed: 872--------
+
+1848. Next event: Departure from Server 7
+
+---------No. of customers delayed: 873--------
+
+1849. Next event: Arrival of Customer 986
+1850. Next event: Arrival of Customer 987
+1851. Next event: Arrival of Customer 988
+1852. Next event: Arrival of Customer 989
+1853. Next event: Arrival of Customer 990
+1854. Next event: Departure from Server 10
+
+---------No. of customers delayed: 874--------
+
+1855. Next event: Departure from Server 6
+
+---------No. of customers delayed: 875--------
+
+1856. Next event: Departure from Server 7
+
+---------No. of customers delayed: 876--------
+
+1857. Next event: Arrival of Customer 991
+1858. Next event: Departure from Server 9
+
+---------No. of customers delayed: 877--------
+
+1859. Next event: Departure from Server 10
+
+---------No. of customers delayed: 878--------
+
+1860. Next event: Departure from Server 9
+
+---------No. of customers delayed: 879--------
+
+1861. Next event: Departure from Server 6
+
+---------No. of customers delayed: 880--------
+
+1862. Next event: Arrival of Customer 992
+1863. Next event: Arrival of Customer 993
+1864. Next event: Departure from Server 9
+
+---------No. of customers delayed: 881--------
+
+1865. Next event: Arrival of Customer 994
+1866. Next event: Arrival of Customer 995
+1867. Next event: Arrival of Customer 996
+1868. Next event: Departure from Server 8
+
+---------No. of customers delayed: 882--------
+
+1869. Next event: Departure from Server 8
+
+---------No. of customers delayed: 883--------
+
+1870. Next event: Arrival of Customer 997
+1871. Next event: Departure from Server 10
+
+---------No. of customers delayed: 884--------
+
+1872. Next event: Departure from Server 9
+
+---------No. of customers delayed: 885--------
+
+1873. Next event: Departure from Server 6
+
+---------No. of customers delayed: 886--------
+
+1874. Next event: Departure from Server 7
+
+---------No. of customers delayed: 887--------
+
+1875. Next event: Arrival of Customer 998
+1876. Next event: Arrival of Customer 999
+1877. Next event: Arrival of Customer 1000
+1878. Next event: Arrival of Customer 1001
+1879. Next event: Arrival of Customer 1002
+1880. Next event: Departure from Server 8
+
+---------No. of customers delayed: 888--------
+
+1881. Next event: Arrival of Customer 1003
+1882. Next event: Arrival of Customer 1004
+1883. Next event: Arrival of Customer 1005
+1884. Next event: Departure from Server 8
+
+---------No. of customers delayed: 889--------
+
+1885. Next event: Departure from Server 6
+
+---------No. of customers delayed: 890--------
+
+1886. Next event: Departure from Server 10
+
+---------No. of customers delayed: 891--------
+
+1887. Next event: Arrival of Customer 1006
+1888. Next event: Arrival of Customer 1007
+1889. Next event: Departure from Server 7
+
+---------No. of customers delayed: 892--------
+
+1890. Next event: Departure from Server 7
+
+---------No. of customers delayed: 893--------
+
+1891. Next event: Arrival of Customer 1008
+1892. Next event: Arrival of Customer 1009
+1893. Next event: Arrival of Customer 1010
+1894. Next event: Arrival of Customer 1011
+1895. Next event: Arrival of Customer 1012
+1896. Next event: Departure from Server 9
+
+---------No. of customers delayed: 894--------
+
+1897. Next event: Departure from Server 10
+
+---------No. of customers delayed: 895--------
+
+1898. Next event: Departure from Server 10
+
+---------No. of customers delayed: 896--------
+
+1899. Next event: Departure from Server 6
+
+---------No. of customers delayed: 897--------
+
+1900. Next event: Arrival of Customer 1013
+1901. Next event: Arrival of Customer 1014
+1902. Next event: Arrival of Customer 1015
+1903. Next event: Arrival of Customer 1016
+1904. Next event: Departure from Server 6
+
+---------No. of customers delayed: 898--------
+
+1905. Next event: Arrival of Customer 1017
+1906. Next event: Departure from Server 6
+
+---------No. of customers delayed: 899--------
+
+1907. Next event: Departure from Server 10
+
+---------No. of customers delayed: 900--------
+
+1908. Next event: Arrival of Customer 1018
+1909. Next event: Arrival of Customer 1019
+1910. Next event: Arrival of Customer 1020
+1911. Next event: Departure from Server 8
+
+---------No. of customers delayed: 901--------
+
+1912. Next event: Departure from Server 9
+
+---------No. of customers delayed: 902--------
+
+1913. Next event: Departure from Server 7
+
+---------No. of customers delayed: 903--------
+
+1914. Next event: Departure from Server 8
+
+---------No. of customers delayed: 904--------
+
+1915. Next event: Arrival of Customer 1021
+1916. Next event: Departure from Server 6
+
+---------No. of customers delayed: 905--------
+
+1917. Next event: Arrival of Customer 1022
+1918. Next event: Arrival of Customer 1023
+1919. Next event: Departure from Server 6
+
+---------No. of customers delayed: 906--------
+
+1920. Next event: Arrival of Customer 1024
+1921. Next event: Arrival of Customer 1025
+1922. Next event: Arrival of Customer 1026
+1923. Next event: Arrival of Customer 1027
+1924. Next event: Arrival of Customer 1028
+1925. Next event: Departure from Server 8
+
+---------No. of customers delayed: 907--------
+
+1926. Next event: Arrival of Customer 1029
+1927. Next event: Arrival of Customer 1030
+1928. Next event: Departure from Server 6
+
+---------No. of customers delayed: 908--------
+
+1929. Next event: Arrival of Customer 1031
+1930. Next event: Departure from Server 10
+
+---------No. of customers delayed: 909--------
+
+1931. Next event: Departure from Server 7
+
+---------No. of customers delayed: 910--------
+
+1932. Next event: Arrival of Customer 1032
+1933. Next event: Arrival of Customer 1033
+1934. Next event: Arrival of Customer 1034
+1935. Next event: Arrival of Customer 1035
+1936. Next event: Departure from Server 10
+
+---------No. of customers delayed: 911--------
+
+1937. Next event: Arrival of Customer 1036
+1938. Next event: Departure from Server 10
+
+---------No. of customers delayed: 912--------
+
+1939. Next event: Departure from Server 8
+
+---------No. of customers delayed: 913--------
+
+1940. Next event: Arrival of Customer 1037
+1941. Next event: Departure from Server 6
+
+---------No. of customers delayed: 914--------
+
+1942. Next event: Arrival of Customer 1038
+1943. Next event: Arrival of Customer 1039
+1944. Next event: Departure from Server 7
+
+---------No. of customers delayed: 915--------
+
+1945. Next event: Departure from Server 10
+
+---------No. of customers delayed: 916--------
+
+1946. Next event: Departure from Server 6
+
+---------No. of customers delayed: 917--------
+
+1947. Next event: Departure from Server 7
+
+---------No. of customers delayed: 918--------
+
+1948. Next event: Departure from Server 7
+
+---------No. of customers delayed: 919--------
+
+1949. Next event: Departure from Server 9
+
+---------No. of customers delayed: 920--------
+
+1950. Next event: Departure from Server 10
+
+---------No. of customers delayed: 921--------
+
+1951. Next event: Departure from Server 9
+
+---------No. of customers delayed: 922--------
+
+1952. Next event: Departure from Server 8
+
+---------No. of customers delayed: 923--------
+
+1953. Next event: Arrival of Customer 1040
+1954. Next event: Arrival of Customer 1041
+1955. Next event: Arrival of Customer 1042
+1956. Next event: Departure from Server 9
+
+---------No. of customers delayed: 924--------
+
+1957. Next event: Departure from Server 7
+
+---------No. of customers delayed: 925--------
+
+1958. Next event: Departure from Server 9
+
+---------No. of customers delayed: 926--------
+
+1959. Next event: Departure from Server 6
+
+---------No. of customers delayed: 927--------
+
+1960. Next event: Departure from Server 6
+
+---------No. of customers delayed: 928--------
+
+1961. Next event: Departure from Server 8
+
+---------No. of customers delayed: 929--------
+
+1962. Next event: Arrival of Customer 1043
+1963. Next event: Arrival of Customer 1044
+1964. Next event: Arrival of Customer 1045
+1965. Next event: Arrival of Customer 1046
+1966. Next event: Arrival of Customer 1047
+1967. Next event: Departure from Server 6
+
+---------No. of customers delayed: 930--------
+
+1968. Next event: Arrival of Customer 1048
+1969. Next event: Arrival of Customer 1049
+1970. Next event: Arrival of Customer 1050
+1971. Next event: Departure from Server 6
+
+---------No. of customers delayed: 931--------
+
+1972. Next event: Arrival of Customer 1051
+1973. Next event: Arrival of Customer 1052
+1974. Next event: Departure from Server 6
+
+---------No. of customers delayed: 932--------
+
+1975. Next event: Departure from Server 6
+
+---------No. of customers delayed: 933--------
+
+1976. Next event: Arrival of Customer 1053
+1977. Next event: Departure from Server 9
+
+---------No. of customers delayed: 934--------
+
+1978. Next event: Arrival of Customer 1054
+1979. Next event: Departure from Server 6
+
+---------No. of customers delayed: 935--------
+
+1980. Next event: Departure from Server 10
+
+---------No. of customers delayed: 936--------
+
+1981. Next event: Departure from Server 6
+
+---------No. of customers delayed: 937--------
+
+1982. Next event: Arrival of Customer 1055
+1983. Next event: Arrival of Customer 1056
+1984. Next event: Departure from Server 6
+
+---------No. of customers delayed: 938--------
+
+1985. Next event: Departure from Server 9
+
+---------No. of customers delayed: 939--------
+
+1986. Next event: Arrival of Customer 1057
+1987. Next event: Arrival of Customer 1058
+1988. Next event: Arrival of Customer 1059
+1989. Next event: Departure from Server 9
+
+---------No. of customers delayed: 940--------
+
+1990. Next event: Arrival of Customer 1060
+1991. Next event: Departure from Server 6
+
+---------No. of customers delayed: 941--------
+
+1992. Next event: Departure from Server 8
+
+---------No. of customers delayed: 942--------
+
+1993. Next event: Departure from Server 7
+
+---------No. of customers delayed: 943--------
+
+1994. Next event: Arrival of Customer 1061
+1995. Next event: Departure from Server 9
+
+---------No. of customers delayed: 944--------
+
+1996. Next event: Arrival of Customer 1062
+1997. Next event: Arrival of Customer 1063
+1998. Next event: Departure from Server 8
+
+---------No. of customers delayed: 945--------
+
+1999. Next event: Arrival of Customer 1064
+2000. Next event: Arrival of Customer 1065
+2001. Next event: Departure from Server 10
+
+---------No. of customers delayed: 946--------
+
+2002. Next event: Departure from Server 6
+
+---------No. of customers delayed: 947--------
+
+2003. Next event: Departure from Server 6
+
+---------No. of customers delayed: 948--------
+
+2004. Next event: Departure from Server 7
+
+---------No. of customers delayed: 949--------
+
+2005. Next event: Departure from Server 7
+
+---------No. of customers delayed: 950--------
+
+2006. Next event: Arrival of Customer 1066
+2007. Next event: Arrival of Customer 1067
+2008. Next event: Departure from Server 9
+
+---------No. of customers delayed: 951--------
+
+2009. Next event: Arrival of Customer 1068
+2010. Next event: Departure from Server 10
+
+---------No. of customers delayed: 952--------
+
+2011. Next event: Departure from Server 6
+
+---------No. of customers delayed: 953--------
+
+2012. Next event: Arrival of Customer 1069
+2013. Next event: Arrival of Customer 1070
+2014. Next event: Arrival of Customer 1071
+2015. Next event: Departure from Server 9
+
+---------No. of customers delayed: 954--------
+
+2016. Next event: Arrival of Customer 1072
+2017. Next event: Arrival of Customer 1073
+2018. Next event: Departure from Server 6
+
+---------No. of customers delayed: 955--------
+
+2019. Next event: Arrival of Customer 1074
+2020. Next event: Departure from Server 7
+
+---------No. of customers delayed: 956--------
+
+2021. Next event: Arrival of Customer 1075
+2022. Next event: Arrival of Customer 1076
+2023. Next event: Departure from Server 7
+
+---------No. of customers delayed: 957--------
+
+2024. Next event: Arrival of Customer 1077
+2025. Next event: Arrival of Customer 1078
+2026. Next event: Departure from Server 8
+
+---------No. of customers delayed: 958--------
+
+2027. Next event: Departure from Server 8
+
+---------No. of customers delayed: 959--------
+
+2028. Next event: Departure from Server 10
+
+---------No. of customers delayed: 960--------
+
+2029. Next event: Departure from Server 10
+
+---------No. of customers delayed: 961--------
+
+2030. Next event: Departure from Server 9
+
+---------No. of customers delayed: 962--------
+
+2031. Next event: Departure from Server 6
+
+---------No. of customers delayed: 963--------
+
+2032. Next event: Arrival of Customer 1079
+2033. Next event: Departure from Server 8
+
+---------No. of customers delayed: 964--------
+
+2034. Next event: Departure from Server 9
+
+---------No. of customers delayed: 965--------
+
+2035. Next event: Arrival of Customer 1080
+2036. Next event: Arrival of Customer 1081
+2037. Next event: Departure from Server 10
+
+---------No. of customers delayed: 966--------
+
+2038. Next event: Departure from Server 8
+
+---------No. of customers delayed: 967--------
+
+2039. Next event: Departure from Server 9
+
+---------No. of customers delayed: 968--------
+
+2040. Next event: Departure from Server 7
+
+---------No. of customers delayed: 969--------
+
+2041. Next event: Arrival of Customer 1082
+2042. Next event: Arrival of Customer 1083
+2043. Next event: Departure from Server 7
+
+---------No. of customers delayed: 970--------
+
+2044. Next event: Arrival of Customer 1084
+2045. Next event: Departure from Server 6
+
+---------No. of customers delayed: 971--------
+
+2046. Next event: Arrival of Customer 1085
+2047. Next event: Arrival of Customer 1086
+2048. Next event: Arrival of Customer 1087
+2049. Next event: Arrival of Customer 1088
+2050. Next event: Arrival of Customer 1089
+2051. Next event: Departure from Server 6
+
+---------No. of customers delayed: 972--------
+
+2052. Next event: Arrival of Customer 1090
+2053. Next event: Arrival of Customer 1091
+2054. Next event: Arrival of Customer 1092
+2055. Next event: Departure from Server 8
+
+---------No. of customers delayed: 973--------
+
+2056. Next event: Departure from Server 6
+
+---------No. of customers delayed: 974--------
+
+2057. Next event: Departure from Server 10
+
+---------No. of customers delayed: 975--------
+
+2058. Next event: Arrival of Customer 1093
+2059. Next event: Departure from Server 9
+
+---------No. of customers delayed: 976--------
+
+2060. Next event: Departure from Server 9
+
+---------No. of customers delayed: 977--------
+
+2061. Next event: Departure from Server 6
+
+---------No. of customers delayed: 978--------
+
+2062. Next event: Arrival of Customer 1094
+2063. Next event: Departure from Server 9
+
+---------No. of customers delayed: 979--------
+
+2064. Next event: Arrival of Customer 1095
+2065. Next event: Arrival of Customer 1096
+2066. Next event: Arrival of Customer 1097
+2067. Next event: Arrival of Customer 1098
+2068. Next event: Departure from Server 8
+
+---------No. of customers delayed: 980--------
+
+2069. Next event: Arrival of Customer 1099
+2070. Next event: Departure from Server 6
+
+---------No. of customers delayed: 981--------
+
+2071. Next event: Arrival of Customer 1100
+2072. Next event: Departure from Server 10
+
+---------No. of customers delayed: 982--------
+
+2073. Next event: Arrival of Customer 1101
+2074. Next event: Departure from Server 7
+
+---------No. of customers delayed: 983--------
+
+2075. Next event: Departure from Server 6
+
+---------No. of customers delayed: 984--------
+
+2076. Next event: Departure from Server 9
+
+---------No. of customers delayed: 985--------
+
+2077. Next event: Departure from Server 6
+
+---------No. of customers delayed: 986--------
+
+2078. Next event: Arrival of Customer 1102
+2079. Next event: Arrival of Customer 1103
+2080. Next event: Departure from Server 7
+
+---------No. of customers delayed: 987--------
+
+2081. Next event: Arrival of Customer 1104
+2082. Next event: Arrival of Customer 1105
+2083. Next event: Departure from Server 7
+
+---------No. of customers delayed: 988--------
+
+2084. Next event: Departure from Server 10
+
+---------No. of customers delayed: 989--------
+
+2085. Next event: Departure from Server 6
+
+---------No. of customers delayed: 990--------
+
+2086. Next event: Departure from Server 6
+
+---------No. of customers delayed: 991--------
+
+2087. Next event: Arrival of Customer 1106
+2088. Next event: Departure from Server 7
+
+---------No. of customers delayed: 992--------
+
+2089. Next event: Departure from Server 10
+
+---------No. of customers delayed: 993--------
+
+2090. Next event: Arrival of Customer 1107
+2091. Next event: Arrival of Customer 1108
+2092. Next event: Departure from Server 7
+
+---------No. of customers delayed: 994--------
+
+2093. Next event: Arrival of Customer 1109
+2094. Next event: Departure from Server 8
+
+---------No. of customers delayed: 995--------
+
+2095. Next event: Arrival of Customer 1110
+2096. Next event: Departure from Server 8
+
+---------No. of customers delayed: 996--------
+
+2097. Next event: Departure from Server 8
+
+---------No. of customers delayed: 997--------
+
+2098. Next event: Arrival of Customer 1111
+2099. Next event: Arrival of Customer 1112
+2100. Next event: Departure from Server 6
+
+---------No. of customers delayed: 998--------
+
+2101. Next event: Departure from Server 8
+
+---------No. of customers delayed: 999--------
+
+2102. Next event: Departure from Server 7
+
+---------No. of customers delayed: 1000--------
+

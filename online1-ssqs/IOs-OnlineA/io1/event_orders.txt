@@ -1,0 +1,22 @@
+1. Next event: Arrival of Customer 1
+
+---------No. of customers delayed: 1--------
+
+2. Next event: Departure from Server 1
+3. Next event: Arrival of Customer 2
+
+---------No. of customers delayed: 2--------
+
+4. Next event: Departure from Server 1
+5. Next event: Arrival of Customer 3
+
+---------No. of customers delayed: 3--------
+
+6. Next event: Arrival of Customer 4
+
+---------No. of customers delayed: 4--------
+
+7. Next event: Arrival of Customer 5
+8. Next event: Departure from Server 2
+
+---------No. of customers delayed: 5--------

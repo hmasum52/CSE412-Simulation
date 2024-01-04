@@ -1,0 +1,11 @@
+----Multi-Server Queueing System----
+
+Number of servers: 2
+Mean inter-arrival time: 1.000000 minutes
+Mean service time: 0.500000 minutes
+Number of customers: 5
+
+Avg delay in queue: 0.007264 minutes
+Avg number in queue: 0.012417
+Server utilization: 0.451375
+Time simulation ended: 2.925144 minutes
