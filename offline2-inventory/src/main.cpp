@@ -1,3 +1,5 @@
+// author: Hasan Masum(1805052)
+
 #include<bits/stdc++.h>
 #include "inventory.h"
 using namespace std;
