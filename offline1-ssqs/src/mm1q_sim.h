@@ -97,8 +97,8 @@ void MM1QSim::initialize() {
 
   /* Initialize event list. Since no customers are present, the departure
   (service completion) event is eliminated from consideration. */
-  time_next_event[1] = sim_time + expon(mean_interarrival);
-  time_next_event[2] = INF;
+  time_next_event[ARRIVAL] = sim_time + expon(mean_interarrival);
+  time_next_event[DEPARTURE] = INF;
 
   // Intialize count for log
   event_count = 0;
@@ -135,7 +135,7 @@ void MM1QSim::timing() {
 // Arrival event function
 void MM1QSim::arrive() {
   arrival_count++;
-  log_next_event_type(EventType::ARRIVAL);
+  log_next_event_type(ARRIVAL);
 
   double delay;
 
@@ -143,7 +143,7 @@ void MM1QSim::arrive() {
   time_next_event[1] = sim_time + expon(mean_interarrival);
 
   /* Check to see whether server is busy. */
-  if (server_status == ServerStatus::BUSY) {
+  if (server_status == BUSY) {
     /* Server is busy, so increment number of customers in queue. */
     ++num_in_q;
 
@@ -169,25 +169,24 @@ void MM1QSim::arrive() {
     ++num_custs_delayed;
     this->log_customer_delayed();
 
-
-    server_status = ServerStatus::BUSY;
+    server_status = BUSY;
 
     // Schedule a departure (service completion). 
-    time_next_event[2] = sim_time + expon(mean_service);
+    time_next_event[DEPARTURE] = sim_time + expon(mean_service);
   }
 }
 
 // Departure event function
 void MM1QSim::depart() {
   departure_count++;
-  log_next_event_type(EventType::DEPARTURE);
+  log_next_event_type(DEPARTURE);
 
   /* Check to see whether the queue is empty. */
   if (num_in_q == 0) {
     /* The queue is empty so make the server idle and eliminate the
     departure (service completion) event from consideration. */
-    server_status = ServerStatus::IDLE;
-    time_next_event[2] = INF;
+    server_status = IDLE;
+    time_next_event[DEPARTURE] = INF;
   } else {
     /* The queue is nonempty, so decrement the number of customers in
     queue. */
@@ -202,7 +201,7 @@ void MM1QSim::depart() {
     ++num_custs_delayed;
     this->log_customer_delayed();
 
-    time_next_event[2] = sim_time + expon(mean_service);
+    time_next_event[DEPARTURE] = sim_time + expon(mean_service);
 
     // Move each customer in queue (if any) up one place.
     time_arrival.pop();
@@ -281,10 +280,10 @@ void MM1QSim::run() {
 
     // Invoke the appropriate event function.
     switch (next_event_type) {
-      case EventType::ARRIVAL:
+      case ARRIVAL:
         this->arrive();
         break;
-      case EventType::DEPARTURE:
+      case DEPARTURE:
         this->depart();
         break;
     }
