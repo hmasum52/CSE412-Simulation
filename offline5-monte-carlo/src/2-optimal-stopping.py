@@ -1,3 +1,7 @@
+# author: Hasan Masum
+# id: 1805052
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 from tqdm import tqdm
