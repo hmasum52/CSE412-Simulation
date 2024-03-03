@@ -8,6 +8,7 @@
 # In this problem, a fissile neutron can only produce a maximum of 3 new neutrons, 
 # while some may produce zero new ones. Here pi = (0.2126)(0.5893)i -1 for i = 1, 2, 3.
 import numpy as np
+from tqdm import tqdm
 
 def simulate_neutrons(probabilities, generations, num_simulations):
     print("Running simulation...")
@@ -19,7 +20,7 @@ def simulate_neutrons(probabilities, generations, num_simulations):
     for n in range(generations):
         print(f"Running Generation-{n+1}")
         # For each simulation
-        for _ in range(num_simulations):
+        for _ in tqdm(range(num_simulations)):
             # Start with one neutron
             num_neutrons = 1
             # For each generation
@@ -35,21 +36,27 @@ def simulate_neutrons(probabilities, generations, num_simulations):
 
     return results
 
-
+# return the probability that a neutron 
+# will result in a fission that produces i new neutrons
 def p_i(i: int):
     return 0.2126 * 0.5893 ** (i - 1)
 
-# Define the probabilities
-p = [p_i(i) for i in range(1, 4)] # probability for i = 1, 2, 3
-p.insert(0, 1 - sum(p))  # probability for i = 0
 
-# Simulate neutrons for 10 generations, 10,000 times
-num_generations = 10
-num_simulations = 10000
-results = simulate_neutrons(p, num_generations, num_simulations)
+def main():
+    # Define the probabilities
+    p = [p_i(i) for i in range(1, 4)] # probability for i = 1, 2, 3
+    p.insert(0, 1 - sum(p))  # probability for i = 0
 
-# Print the results
-for n in range(num_generations):
-    print(f"Generation-{n+1}:")
-    for j in range(5):
-        print(f"p[{j}] = {results[n, j]:.4f}")
+    # Simulate neutrons for 10 generations, 10,000 times
+    num_generations = 10
+    num_simulations = 10000
+    results = simulate_neutrons(p, num_generations, num_simulations)
+
+    # Print the results
+    for n in range(num_generations):
+        print(f"Generation-{n+1}:")
+        for j in range(5):
+            print(f"p[{j}] = {results[n, j]:.4f}")
+
+if __name__ == "__main__":
+    main()
